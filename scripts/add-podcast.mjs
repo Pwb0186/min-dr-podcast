@@ -60,13 +60,25 @@ async function fetchTitle(slug) {
   });
   if (!response.ok) throw new Error(`Kunne ikke hente titel for ${slug}`);
   const data = await response.json();
-  const show = (data.items || []).find((item) => deriveSlug(item) === slug);
+  const show = (data.items || []).find((item) => deriveSlug(item) === slug || derivePresentationSlug(item) === slug);
   return show?.title || slug;
 }
 
 function deriveSlug(item) {
   const fromPodcastUrl = item.podcastUrl ? String(item.podcastUrl).split("/").filter(Boolean).at(-1) : "";
   return String(fromPodcastUrl || item.psdbSlug || item.slug || "")
+    .replace(/\.xml.*$/, "")
+    .replace(/-\d+$/, "")
+    .replace(/^sara-og-monopolet-podcast$/, "sara-og-monopolet")
+    .replace(/^mads-monopolet-podcast$/, "sara-og-monopolet")
+    .replace(/^hjernekassen-paa-p1$/, "hjernekassen")
+    .replace(/^hjernekassen-pa-p1$/, "hjernekassen")
+    .replace(/^moerklagt-agent-samsam$/, "moerklagt");
+}
+
+function derivePresentationSlug(item) {
+  const fromPresentationUrl = item.presentationUrl ? String(item.presentationUrl).split("/").filter(Boolean).at(-1) : "";
+  return String(fromPresentationUrl || item.slug || "")
     .replace(/\.xml.*$/, "")
     .replace(/-\d+$/, "")
     .replace(/^sara-og-monopolet-podcast$/, "sara-og-monopolet")
