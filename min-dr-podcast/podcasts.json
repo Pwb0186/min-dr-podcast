@@ -1,6 +1,6 @@
 {
   "siteTitle": "Mine DR Podcasts",
-  "baseUrl": "https://DIT-BRUGERNAVN.github.io/DIT-REPO",
+  "baseUrl": "https://Pwb0186.github.io/min-dr-podcast",
   "podcasts": [
     {
       "slug": "genstart",
@@ -11,8 +11,8 @@
       "title": "Tiden"
     },
     {
-      "slug": "p1-orientering",
-      "title": "P1 Orientering"
+      "slug": "tyran",
+      "title": "Tyran"
     }
   ]
 }
