@@ -13,7 +13,7 @@ Eksempel:
 ```json
 {
   "siteTitle": "Mine Podcasts",
-  "baseUrl": "https://Pwb0186.github.io/min-dr-podcast",
+  "baseUrl": "https://Pwb0186.github.io/min-podcast",
   "podcasts": [
     {
       "slug": "genstart",
