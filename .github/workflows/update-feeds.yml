@@ -36,6 +36,7 @@ jobs:
       - name: Byg private feeds
         env:
           SITE_BASE_URL: ${{ vars.SITE_BASE_URL }}
+          DR_API_KEY: ${{ vars.DR_API_KEY }}
         run: npm run build
 
       - name: Klargør GitHub Pages
