@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="da">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mine DR Podcasts</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header>
+    <h1>Mine DR Podcasts</h1>
+    <p>Privat RSS-oversigt styret fra podcasts.json.</p>
+  </header>
+  <main>
+    <div class="toolbar">
+      <input id="search" type="search" placeholder="Søg i dine podcasts" aria-label="Søg i dine podcasts">
+    </div>
+    <section class="grid" id="podcasts">
+
+      <a class="podcast" href="genstart/feed.xml" data-title="genstart">
+        <img src="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:67e13b366273e8fc7077613e.jpg" alt="Genstart">
+        <strong>Genstart</strong>
+        <small>RSS-feed</small>
+      </a>
+
+      <a class="podcast" href="p1-orientering/feed.xml" data-title="p1 orientering">
+        <img src="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:698206efe256425f500b72a2.jpg" alt="P1 Orientering">
+        <strong>P1 Orientering</strong>
+        <small>RSS-feed</small>
+      </a>
+
+      <a class="podcast" href="tiden/feed.xml" data-title="tiden">
+        <img src="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:67e17b1a6273e8fc707860c9.jpg" alt="Tiden">
+        <strong>Tiden</strong>
+        <small>RSS-feed</small>
+      </a>
+    </section>
+  </main>
+  <script>
+    const input = document.querySelector("#search");
+    const cards = [...document.querySelectorAll(".podcast")];
+    input.addEventListener("input", () => {
+      const value = input.value.trim().toLowerCase();
+      for (const card of cards) {
+        card.hidden = value && !card.dataset.title.includes(value);
+      }
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+{
+  "name": "min-dr-podcast",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "add": "node scripts/add-podcast.mjs"
+  }
+}
