@@ -6,6 +6,7 @@ const root = dirname(dirname(fileURLToPath(import.meta.url)));
 const configPath = join(root, "podcasts.json");
 const input = process.argv[2];
 const titleArg = process.argv.slice(3).join(" ").trim();
+const DR_API_KEY = process.env.DR_API_KEY || "6Wkh8s98Afx1ZAaTT4FuWODTmvWGDPpR";
 
 if (!input) {
   console.error("Brug: npm run add -- genstart");
@@ -49,12 +50,28 @@ function extractSlug(value) {
 }
 
 async function fetchTitle(slug) {
-  const response = await fetch(`https://api.dr.dk/podcasts/v1/feeds/${slug}.xml?format=podcast`);
+  const response = await fetch("https://api.dr.dk/radio/v2/series?limit=10000", {
+    headers: {
+      "accept": "application/json",
+      "referer": "https://www.dr.dk/",
+      "user-agent": "privat-dr-podcast-manager/2.0",
+      "x-apikey": DR_API_KEY
+    }
+  });
   if (!response.ok) throw new Error(`Kunne ikke hente titel for ${slug}`);
-  const xml = await response.text();
-  return (
-    /<title><!\[CDATA\[(.*?)\]\]><\/title>/s.exec(xml)?.[1] ||
-    /<title>(.*?)<\/title>/s.exec(xml)?.[1] ||
-    slug
-  ).trim();
+  const data = await response.json();
+  const show = (data.items || []).find((item) => deriveSlug(item) === slug);
+  return show?.title || slug;
+}
+
+function deriveSlug(item) {
+  const fromPodcastUrl = item.podcastUrl ? String(item.podcastUrl).split("/").filter(Boolean).at(-1) : "";
+  return String(fromPodcastUrl || item.psdbSlug || item.slug || "")
+    .replace(/\.xml.*$/, "")
+    .replace(/-\d+$/, "")
+    .replace(/^sara-og-monopolet-podcast$/, "sara-og-monopolet")
+    .replace(/^mads-monopolet-podcast$/, "sara-og-monopolet")
+    .replace(/^hjernekassen-paa-p1$/, "hjernekassen")
+    .replace(/^hjernekassen-pa-p1$/, "hjernekassen")
+    .replace(/^moerklagt-agent-samsam$/, "moerklagt");
 }
