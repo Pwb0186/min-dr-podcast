@@ -10,7 +10,7 @@ const publicDir = join(root, "public");
 const configPath = join(root, "podcasts.json");
 
 const config = JSON.parse(await readFile(configPath, "utf8"));
-const siteTitle = config.siteTitle || "Mine DR Podcasts";
+const siteTitle = config.siteTitle || "Mine Podcasts";
 const baseUrl = (process.env.SITE_BASE_URL || config.baseUrl || "").replace(/\/$/, "");
 const podcasts = Array.isArray(config.podcasts) ? config.podcasts : [];
 
@@ -283,7 +283,7 @@ function renderIndex(rendered) {
 <body>
   <header>
     <h1>${html(siteTitle)}</h1>
-    <p>Private RSS-feeds bygget fra DR's episode-API.</p>
+    <p>Private RSS-feeds bygget fra dine valgte podcasts.</p>
   </header>
   <main>
     <div class="toolbar">
