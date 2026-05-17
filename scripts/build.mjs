@@ -85,9 +85,13 @@ async function loadSeriesIndex() {
 
   for (const item of items) {
     const derivedSlug = deriveSlug(item);
+    const presentationSlug = derivePresentationSlug(item);
     const umbrellaSlug = deriveUmbrellaSlug(item.umbrella);
     if (derivedSlug) {
       bySlug.set(derivedSlug, item);
+    }
+    if (presentationSlug) {
+      bySlug.set(presentationSlug, item);
     }
     if (umbrellaSlug && item.id) {
       const group = umbrellaGroups.get(umbrellaSlug) || [];
@@ -307,6 +311,11 @@ ${cards}
 function deriveSlug(item) {
   const fromPodcastUrl = item.podcastUrl ? String(item.podcastUrl).split("/").filter(Boolean).at(-1) : "";
   return normalizeSlug(fromPodcastUrl || item.psdbSlug || item.slug || "");
+}
+
+function derivePresentationSlug(item) {
+  const fromPresentationUrl = item.presentationUrl ? String(item.presentationUrl).split("/").filter(Boolean).at(-1) : "";
+  return normalizeSlug(fromPresentationUrl || item.slug || "");
 }
 
 function deriveUmbrellaSlug(umbrella) {
