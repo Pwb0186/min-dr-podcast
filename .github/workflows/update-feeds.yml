@@ -1,0 +1,58 @@
+name: Opdater podcasts
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "podcasts.json"
+      - "scripts/**"
+      - ".github/workflows/update-feeds.yml"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hent repository
+        uses: actions/checkout@v4
+
+      - name: Brug Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Byg private feeds
+        env:
+          SITE_BASE_URL: ${{ vars.SITE_BASE_URL }}
+        run: npm run build
+
+      - name: Klargør GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload side
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Udgiv til GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
