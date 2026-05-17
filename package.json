@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "build": "node scripts/build.mjs",
-    "add": "node scripts/add-podcast.mjs"
+    "add": "node scripts/add-podcast.mjs",
+    "search": "node scripts/search-podcast.mjs"
   }
 }
