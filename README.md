@@ -1,10 +1,10 @@
-# Min DR Podcast
+# Min Podcast RSS
 
-Privat RSS-oversigt til DR-podcasts, hvor du selv bestemmer hvilke podcasts der skal med.
+Privat RSS-side, hvor du selv bestemmer hvilke podcasts der skal med.
 
-Denne version kopierer ikke bare DR's officielle podcast-RSS. Den bygger nye RSS-feeds fra DR's underliggende episode-API og direkte lydlinks, så den minder mere om drpodcast.nu.
+Projektet bygger en lille oversigtsside og et RSS-feed pr. podcast. Listen styres fra `podcasts.json`, og GitHub Actions kan opdatere feeds automatisk.
 
-## Sådan styrer du listen
+## Styr Podcastlisten
 
 Ret `podcasts.json`.
 
@@ -12,7 +12,7 @@ Eksempel:
 
 ```json
 {
-  "siteTitle": "Mine DR Podcasts",
+  "siteTitle": "Mine Podcasts",
   "baseUrl": "https://Pwb0186.github.io/min-dr-podcast",
   "podcasts": [
     {
@@ -23,41 +23,21 @@ Eksempel:
 }
 ```
 
-`slug` er typisk navnet i DR-linket. Hvis DR-linket er:
+Naar du vil tilfoeje en podcast, tilfoejer du et nyt punkt i listen:
 
-```text
-https://www.dr.dk/lyd/special-radio/genstart-2642056922000
+```json
+{
+  "slug": "stjerner-og-striber",
+  "urn": "urn:...",
+  "title": "Stjerner og striber"
+}
 ```
 
-så er slug:
+`slug` bestemmer feed-adressen. `urn` er et internt serie-id, som goer opslaget mere stabilt, hvis et navn aendrer sig.
 
-```text
-genstart
-```
+## Find Korrekt Slug
 
-Generatoren finder selv DR-serien bag sluggen og henter episoder fra DR's radio-API. Lydfilerne i RSS-feedet kommer fra DR's assetlinks, fx:
-
-```text
-https://api.dr.dk/radio/v1/assetlinks/...
-```
-
-## Tilføj en podcast
-
-Du kan enten redigere `podcasts.json` manuelt eller køre:
-
-```bash
-npm run add -- genstart
-```
-
-Du kan også bruge et DR-link:
-
-```bash
-npm run add -- https://www.dr.dk/lyd/special-radio/genstart-2642056922000
-```
-
-## Find den rigtige slug
-
-Hvis en podcast ikke kan findes, kan du søge i DR's serieliste:
+Hvis du har Node.js installeret lokalt, kan du soege saadan:
 
 ```bash
 npm run search -- stjerner
@@ -69,19 +49,13 @@ eller:
 npm run search -- "p6 elsker"
 ```
 
-Søgningen viser titel, DR-link, slug og URN. Den viser også en JSON-blok, du kan kopiere direkte ind i `podcasts.json`.
+Soegningen viser en JSON-blok, som kan kopieres direkte ind i `podcasts.json`.
 
-Den mest fremtidssikre form er at bruge både `slug` og `urn`:
+Du kan ogsaa redigere listen manuelt uden at bruge `npm`.
 
-```json
-{
-  "slug": "stjerner-og-striber",
-  "urn": "urn:dr:radio:series:...",
-  "title": "Stjerner og striber"
-}
-```
+## Byg Lokalt
 
-## Byg siden
+Hvis du har Node.js installeret:
 
 ```bash
 npm run build
@@ -92,64 +66,64 @@ Det laver en `public`-mappe med:
 - `index.html`
 - et RSS-feed pr. valgt podcast
 
-## Automatisk opdatering på GitHub
+## GitHub Pages
 
-Workflowet i `.github/workflows/update-feeds.yml` opdaterer feeds hver 6. time.
+1. Gaa til repositoryets `Settings`.
+2. Gaa til `Pages`.
+3. Vaelg `GitHub Actions` som source.
+4. Gaa til `Settings` -> `Secrets and variables` -> `Actions` -> `Variables`.
+5. Opret variablen `SITE_BASE_URL`.
 
-Når du har lagt projektet i dit GitHub-repo:
-
-1. Ret `baseUrl` i `podcasts.json`, hvis repo-navnet eller brugernavnet ændrer sig.
-2. Gå til repositoryets `Settings`.
-3. Under `Pages` vælger du `GitHub Actions` som kilde.
-4. Gå til `Settings` -> `Secrets and variables` -> `Actions` -> `Variables`.
-5. Opret variablen `SITE_BASE_URL` med din Pages-adresse:
+For dette repository er vaerdien:
 
 ```text
 https://Pwb0186.github.io/min-dr-podcast
 ```
 
-6. Kør workflowet manuelt første gang under fanen `Actions`.
+`SITE_BASE_URL` bruges til at skrive de rigtige feed-adresser.
 
-`SITE_BASE_URL` bruges til at skrive den rigtige adresse ind i RSS-feeds. Hvis den ikke er sat, bruges `baseUrl` fra `podcasts.json`.
+## Automatisk Opdatering
 
-## GitHub Actions og DR API
-
-Generatoren bruger en DR API-nøgle, som også bruges i det oprindelige DR1ommer-projekt. Den ligger som standard i scriptet, så du behøver normalt ikke gøre noget.
-
-Hvis den en dag stopper med at virke, kan du oprette en GitHub Actions variable:
+Workflowet ligger her:
 
 ```text
-DR_API_KEY
+.github/workflows/update-feeds.yml
 ```
 
-og sætte den til en ny nøgle.
+Det kan koeres manuelt under fanen `Actions`, og det koerer ogsaa automatisk efter den tidsplan, der staar i workflow-filen.
 
-## Brug i podcast-app
-
-Når siden er bygget og udgivet, kan du abonnere på et feed som:
+Den aktuelle tidsplan er dansk sommertid:
 
 ```text
-https://DIT-BRUGERNAVN.github.io/DIT-REPO/genstart/feed.xml
+05:00, 07:00, 09:00, 11:00, 15:00, 18:00, 20:00
 ```
 
-Du kan også åbne forsiden og trykke på den podcast, du vil abonnere på.
+Bemaerk: GitHub bruger UTC, saa tiderne flytter sig en time ved vintertid.
 
-## Om meta-podcasts som Tyran
+## Brug I Podcast-App
 
-Nogle DR-serier er samlet af flere underserier. `Tyran` er et eksempel, hvor episoder som Mao, Bokassa, Franco, Nijasov, Milosevic og Hirohito tidligere manglede på drpodcast.nu.
+Naar siden er bygget og udgivet, kan et feed bruges saadan:
 
-Denne private version understøtter samme princip som rettelsen i DR1ommer-projektet: hvis en slug er en samlet meta-serie, finder generatoren de underliggende serier og samler episoderne i ét feed.
-
-`Tyran` er testet og bygges som et samlet feed med under-serierne.
-
-Hvis den automatiske slug-finding en dag ikke rammer rigtigt, kan en podcast også angives med en eller flere DR-URNs i `podcasts.json`:
-
-```json
-{
-  "slug": "tyran",
-  "urns": [
-    "urn:dr:radio:series:..."
-  ],
-  "title": "Tyran"
-}
+```text
+https://Pwb0186.github.io/min-dr-podcast/genstart/feed.xml
 ```
+
+Du kan ogsaa aabne forsiden:
+
+```text
+https://Pwb0186.github.io/min-dr-podcast
+```
+
+og vaelge feedet derfra.
+
+## Fejlfinding
+
+Hvis buildet fejler med `Kunne ikke finde serien`, er sluggen sandsynligvis ikke den rigtige. Brug soegekommandoen:
+
+```bash
+npm run search -- soegeord
+```
+
+og kopier JSON-blokken med `slug`, `urn` og `title`.
+
+Hvis buildet fejler med `SyntaxError` i `podcasts.json`, mangler der typisk et komma mellem to podcasts, eller der er et ekstra komma efter den sidste.
