@@ -1,0 +1,18 @@
+{
+  "siteTitle": "Mine DR Podcasts",
+  "baseUrl": "https://DIT-BRUGERNAVN.github.io/DIT-REPO",
+  "podcasts": [
+    {
+      "slug": "genstart",
+      "title": "Genstart"
+    },
+    {
+      "slug": "tiden",
+      "title": "Tiden"
+    },
+    {
+      "slug": "p1-orientering",
+      "title": "P1 Orientering"
+    }
+  ]
+}

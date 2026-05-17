@@ -1,0 +1,2161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://example.com/mine/tiden/feed.xml" rel="self" type="application/rss+xml"/>
+    <title>Tiden</title>
+    <link>https://www.dr.dk/lyd/special-radio/tiden-3364647813000</link>
+    <description>Bliv klar til dagen med tidens tre vigtigste nyhedshistorier på 15 minutter. Alle hverdage fra klokken 03.00. 
+Værter: Adrian Busk og Amalie Schroll Munk.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 17 May 2026 15:21:26 +0200</lastBuildDate>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://example.com/mine/tiden/feed.xml</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:67e17b1a6273e8fc707860c9.jpg</url>
+      <title>Tiden</title>
+      <link>https://www.dr.dk/lyd/special-radio/tiden-3364647813000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:67e17b1a6273e8fc707860c9.jpg" />
+    <category>News</category>
+    <itunes:category text="News" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <podcast:locked>no</podcast:locked>
+    <item>
+      <guid isPermaLink="false">11802651093</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/moedet-i-beijing-franske-film-og-superdaarlige-sygehuse-11802651093</link>
+      <title>Mødet i Beijing, franske film og superdårlige sygehuse</title>
+      <description>USAs præsident Donald Trump og Kinas Xi Jinping mødes i denne uge i Beijing. Men hvad vil de to præsidenter hver især have ud af mødet?
+Mens den årlige franske filmfestival i Cannes de næste dage samler branchens folk fra hele verden, frygter den franske filmindustri, at støtten til dem vil blive mindre, hvis partiet Ressemblement National kommer til magten ved næste års valg.
+Tirsdag blev snoren til det nye supersygehus klippet, men listen over problemer med det nye byggeri er lang. Det skriver sig med det ind i en række lignende sager og skandaler, men hvorfor bliver det ved med at gå galt?
+Værter: Adrian Busk og Amalie Schroll Munk.
+Medvirkende: 
+Anders Heissel, DRs sundhedskorrespondent.
+Mette Thunø, lektor, Kinastudier, Institut for Kultur og Samfund, Aarhus Universitet.</description>
+      <pubDate>Wed, 13 May 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:49</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651093/d9085c389aef01d8858e5c0301eadcaa9c19e3df6aa819eb5e7945d41c28dffb.mp3" type="audio/mpeg" length="24229903" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651092</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/troels-undersoeger-doedvande-i-hormuz-og-vaskede-voldtaegtssager-11802651092</link>
+      <title>Troels undersøger, dødvande i Hormuz og vaskede voldtægtssager</title>
+      <description>Der er ikke høje forventninger til de regeringsforhandlinger, Venstres Troels Lund Poulsen nu har indledt som kongelig undersøger. Men kan der egentlig komme noget ud af dem?
+Måske har du også mistet overblikket over situationen mellem USA og Iran? Tiden giver et overblik over beskyldninger om brud på våbenhvilen, strid om situationen i Hormuzstrædet og fredsforslag, der bliver kaldt uacceptable.
+I sager om både voldtægt, økonomisk svindel og vold er der eksempler på, at de er blevet lukket, selvom politiet ikke har undersøgt dem tilstrækkeligt. Det slår en undersøgelse fra Rigsrevisionen nu fast, og det har affødt skarp kritik.
+Vært: Amalie Schroll Munk.
+Medvirkende: 
+Marchen Neel Gjertsen, politisk kommentator, Børsen.
+Maiken Frederiksen, undersøgende journalist, DR.</description>
+      <pubDate>Tue, 12 May 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:09</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651092/85a63655feadf40aad912ec21d3e28be8983bfe97f6e51df21c3377b6b41bcda.mp3" type="audio/mpeg" length="24710860" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651091</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/pandemipanik-forfulgte-unge-og-for-meget-diversitet-11802651091</link>
+      <title>Pandemipanik, forfulgte unge og for meget diversitet?</title>
+      <description>Det er få år siden, hele verden stod midt i en pandemi. Men fik vi med den også lavet et beredskab, der sikrer, at det ikke sker igen?
+Utallige beskeder fra fremmede og falske profiler, der pludselig deler dine billeder, sådanne oplevelser har mange unge haft. Det viser en ny undersøgelse, som peger på, at hver femte ung i Danmark har følt sig forfulgt online.
+Den amerikanske stat har lagt sag an mod avisen New York Times for at diskriminere en hvid, mandlig medarbejder. Hvad siger sagen om opgøret med diversitet, inklusion og woke i USA?
+Vært: Amalie Schroll Munk.
+Medvirkende:
+Rasmus Dahlberg, lektor i samfundssikkerhed, RUC.
+Sidsel Nyholm, udlandsredaktør, Kristeligt Dagblad.</description>
+      <pubDate>Mon, 11 May 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:53</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651091/3abd6709e16b3e1933f50d79db8224462b573637a95893c34e16a0867d5baf55.mp3" type="audio/mpeg" length="25773575" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651090</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/staten-sover-olieskam-og-brev-fra-epstein-11802651090</link>
+      <title>Staten sover, olieskam og brev fra Epstein?</title>
+      <description>Siden folketingsvalget har partierne forhandlet om at danne en ny regering. Det har nu varet i rekordlang tid, 45 dage, og i den tid står mange opgaver i ministerierne stille. Så hvilke konsekvenser har de langtrukne forhandlinger?
+For nylig kom det frem, at den dømte overgrebsmand Jeffery Epstein har efterladt sig et selvmordsbrev. Det påstår hans tidligere cellekammerat i hvert fald, nu er brevet så offentliggjort. Hvis du er i krise eller har tanker om selvmord, kan du kontakte Livsliniens telefonrådgivning på 70 201 201, ligesom du har mulighed for at chatte med Livslinjen. Ring 112, hvis situationen er livstruende.
+For bare få år siden talte man om olieskam i Norge, men nu vil man - I energikrisens tjeneste -  genåbne omdiskuterede gasfelter og lede efter endnu mere olie. Så hvor er skammen blevet af?
+Vært: Amalie Schroll Munk.
+Medvirkende: 
+Peter Loft, fhv. departementschef, Skatteministeriet.
+Joakim Reigstad, journalist og nordisk korrespondent på NRK.</description>
+      <pubDate>Fri, 08 May 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:09</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651090/3f676880ec80c544ef064cdccc5c234e0d0cd44f793e0cd8435f891e58749f11.mp3" type="audio/mpeg" length="24707974" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651089</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/starmers-skaebne-rubio-i-rom-og-putins-paranoia-11802651089</link>
+      <title>Starmers skæbne, Rubio i Rom og Putins paranoia</title>
+      <description>Britiske Labour ser ud til at lide store nederlag, når der  i dag afholdes en række lokalvalg i Storbritannien. Det beskrives samtidig som en skæbnestund for premierminister Keir Starmer.
+USAs udenrigsminister mødes i dag med Pave Leo, men kan han klinke skårene i Rom, mens hans chef, Donald Trump, fortsat kritiserer paven fra den anden side af Atlanten.
+Har Putin fået paranoia? Det konkluderer en lækket rapport fra en vestlig efterretningstjeneste, som flere internationale medier den senere tid har beskrevet. Men hvad har den russiske præsident at frygte?
+Værter: Amalie Schroll Munk og Adrian Busk.
+Medvirkende: 
+Anna Gaarslev, international korrespondent, DR.
+Flemming Splidsboel, seniorforsker, DIIS.</description>
+      <pubDate>Thu, 07 May 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651089/969b2078b17e430c1a1f5e0011012f6cf1d012e6a8765f7dda04c1b7ce338466.mp3" type="audio/mpeg" length="24498892" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651088</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/ulvenyt-virus-om-bord-og-musks-haevn-11802651088</link>
+      <title>Ulvenyt, virus om bord og Musks hævn</title>
+      <description>En række ulve-hændelser har skabt utryghed og frygt, og nu kaster en rapport lys over, hvad der kan forklare de påtrængende ulve. 
+En dødelig virus har sendt krydstogtspassagerer i isolation på skibet, men nu har de måske udsigt til at blive reddet i land. 
+Elon Musk har sagsøgt Sam Altman og OpenAI. Han mener, at de har svigtet deres oprindelige mål, nemlig at være nonprofit. Men retssagen fremkalder måske især gammelt nag og Musks hævntørst.
+Vært: Adrian Busk.
+Medvirkende: 
+Amanda Flyvbjerg, journalist, P4 Syd.
+Ole Hall, forfatter og journalist, DR.</description>
+      <pubDate>Wed, 06 May 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:26</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651088/510860052db41462ddef6de587e76809d07711887e8e8a1d2c4dac04bd4ac511.mp3" type="audio/mpeg" length="25117515" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651087</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/et-lars-lars-parti-free-hormuz-og-bezos-modemagt-11802651087</link>
+      <title>Et Lars-Lars parti, free Hormuz og Bezos' modemagt</title>
+      <description>Lars Boje er nu det eneste tilbageværende folketingsmedlem i det parti, han selv har stiftet, og som fik fire mandater, da der var valg i marts. Hvordan har op -og nedturen været set indefra? Det fortæller en af dem, der stadig står bag Boje, om.  
+USAs præsident Donald Trump har lovet at sikre passage i Hormuzstrædet, men hvor svær en opgave er det egentlig? 
+Når der natten til tirsdag er Met Gala, er det i skyggen af store protester mod begivenhedens hovedsponsor, Jeff Bezos. Men hvad vil rigmanden have ud af at sikre sig indflydelse i modeverdenen? 
+Vært: Adrian Busk.
+Medvirkende: 
+Karsten Byrgesen, fhv. folketingskandidat, Borgernes Parti.
+Jacob Kaarsbo, sikkerhedsrådgiver -og kommentator.
+Birgitte Borup, international kommentator, Berlingske.</description>
+      <pubDate>Tue, 05 May 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:36</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651087/4249f03e1d1c609f96f47009b60f9aeb525b12bc76183d359c215654c31aff3e.mp3" type="audio/mpeg" length="25361730" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651086</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/ulige-boern-russere-uden-google-og-kyllingekrise-11802651086</link>
+      <title>Ulige børn, russere uden Google og kyllingekrise</title>
+      <description>I sager om alvorlig vold mod børn er familier med minoritetsbaggrund overrepræsenteret. Det viser en ny rapport, og det handler blandt andet om berøringsangst, mener Børns Vilkår, som står bag rapporten.
+Russerne har fået begrænset adgang til en række apps og hjemmesider de seneste måneder, og det har fremkaldt modstand mod det russiske styre. 
+Olie -og gaspriserne stiger, fordi meget af det sidder fast i Hormuzstrædet. Det mærker man tydeligt i Indien, hvor det ikke længere er så nemt at få sig en butter chicken. 
+Vært: Amalie Schroll Munk. 
+Medvirkende: 
+Rasmus Kjeldahl, direktør, Børns Vilkår. 
+Alexander Sjöberg, Asienkorrespondent, Berlingske.</description>
+      <pubDate>Mon, 04 May 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:45</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651086/c3c30c82ef644b8ad9c0eec872a1330a5f27bd87c7279f44a4d05a3354bab32f.mp3" type="audio/mpeg" length="22684494" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651085</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/varm-hvede-olie-mellem-venner-og-haab-i-aarhus-11802651085</link>
+      <title>Varm hvede, olie mellem venner og håb i Aarhus</title>
+      <description>Siden Store Bededag blev afskaffet, har beslutningen været til debat. Faktisk vil et flertal i folketinget have helligdagen tilbage, så hvad står alligevel i vejen for det?
+De Forenede Arabiske Emirater er ikke længere med i oliesamarbejdet, OPEC. Hvad fortæller det om landets politiske kurs? Og om forholdet til storebroren, Saudi Arabien?
+Fodbold er følelser, og for AGF-fans sidder både følelser og nerver uden på fodboldtrøjen i de her uger. Aarhusianerne har ikke vundet mesterskabet i snart fire årtier, og lige nu er de så tæt på, at de samtidig risikerer at snuble på målstregen.
+Vært: Amalie Schroll Munk.
+Medvirkende: 
+Pia Glud Munksgaard, politisk analytiker, DR.
+Michael 'Jøden', rapper og AGF-fan.
+Fannie Agerschou-Madsen, postdoc, RUC.</description>
+      <pubDate>Fri, 01 May 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:10</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651085/5c600d7fbad3185f0e90756e295c79ee86f747ea6345946195c786d0932d63b0.mp3" type="audio/mpeg" length="26167559" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651084</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/kongens-tale-kokainflodheste-og-kinas-bilraes-11802651084</link>
+      <title>Kongens tale, kokainflodheste og Kinas bilræs</title>
+      <description>Den britiske kong Charles besøger i de her dage USA og den amerikanske præsident. På besøget har han leveret nogle opsigtsvækkende politiske budskaber.
+I mange år har den afdøde narkokonge Pablo Escobars flodheste formeret og bredt sig i Colombia, og den colombianske regering vil have mange af dem aflivet. Men måske kan en indisk rigmand blive flodhestenes redning.
+Det går lynhurtigt på det kinesiske elbilmarked, og fabrikanterne kæmper særligt om at udvikle de allerbedste batterier, for vinder man batterikrigen, er der meget mere at vinde.
+Vært: Adrian Busk.
+Medvirkende: 
+Morten Rønnelund, Storbritnnienkommentator.
+Philip Róin, Asienkorrespondent, DR.</description>
+      <pubDate>Thu, 30 Apr 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:14:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651084/f3f8aadd356e7d38346109b1d53c9d3a8ced5dd468cc789f4ec0cc571a3b6755.mp3" type="audio/mpeg" length="20364943" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651083</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/ukontrollerede-svin-upassende-vits-og-utrolige-vaeddemaal-11802651083</link>
+      <title>Ukontrollerede svin, upassende vits og utrolige væddemål</title>
+      <description>Kontrollen af dyrevelfærden hos de danske svin får kritik i en ny rapport, men hvad er problemet med det egentlig? 
+Få dage før det formodede attentatforsøg mod Donald Trump, lavede komiker og tv-vært Jimmy Kimmel en enkejoke om Trumps kone Melania. Så nu kræver Trump-familien ham endnu engang fyret. 
+En amerikansk elitesoldat er blevet afsløret i at spille penge på angrebet mod Venezuela, som han selv var involveret i. Hans historie fortæller samtidig om en tendens, hvor flere og flere spiller penge på krig og katastrofer. 
+Vært: Adrian Busk.
+Medvirkende: 
+Agnete Finnemann Scheel, klimajournalist, DR.
+Laura Haaber Ihle, Ph.d. og techfilosof.</description>
+      <pubDate>Wed, 29 Apr 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:18</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651083/7d481adc7a5998736c16e733821d6b48249701dfa55ad8cb3a96bb22fccb1b07.mp3" type="audio/mpeg" length="24922250" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651082</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/praesidentens-fjender-hurtige-foedder-og-nord-stream-mysteriet-11802651082</link>
+      <title>Præsidentens fjender, hurtige fødder og Nord Stream-mysteriet</title>
+      <description>USA's præsident Donald Trump sammenligner sig selv med Abraham Lincoln efter weekendens skudepisode, men hvad betyder det egentlig for en amerikansk præsident at have nogle ihærdige fjender?
+Der blev slået en vild rekord, da der i weekenden blev løbet et marathon på under to timer. Det lykkedes endda for to personer i samme løb. Hvordan fik to løbere pludselig så hurtige fødder? 
+I en ny bog fortæller to ukrainske fritidsdykkere om at sprænge Nord Stream-ledningerne, så hvilke svar giver bogen om de dramatiske sprængninger i Østersøen?
+Vært: Adrian Busk.
+Medvirkende:
+Lasse Engelbrecht, udlandsjournalist, DR.
+Henrik Them, løbeekspert.
+Simon Kruse, sikkerhedspolitisk korrespondent, Berlingske.</description>
+      <pubDate>Tue, 28 Apr 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:55</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651082/9be23ecf542cbf8fa404ddb074eebb7112a882d13944aca229baa943d32baf29.mp3" type="audio/mpeg" length="22936779" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651081</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/angrebet-i-dc-koe-til-elnettet-og-hvem-er-din-daddy-11802651081</link>
+      <title>Angrebet i DC, Kø til elnettet og hvem er din daddy?</title>
+      <description>Det er et farligt job at være præsident, lød det fra Donald Trump, efter at der blev affyret skud i forbindelse med den årlige korrespondentmiddag, som knap var kommet igang, og som præsidenten også skulle deltage i. Mens vi forsøger at skifte fra sort til grøn energi, og samtidig får brug for datacentre, fordi vi storforbruger AI, så er der kamp om pladsen på elnettet.Trump er ikke den eneste, som er blevet kaldt 'daddy'. Senest har Canadas premierminister Mark Carney fået prædikatet sat på sig. Men hvorfor higer verden efter en farmand som leder?
+Rettelse: I dagens episode siger vi, at Donald Trump aldrig har deltaget i den årlige gallamiddag for korrespondenter i det Hvide Hus. Det er ikke korrekt, for Donald Trump har tidligere deltaget, han har bare aldrig deltaget som præsident.
+Vært: Amalie Schroll Munk.
+Medvirkende: 
+Louise Olifent, journalist, fagbladet Ingeniøren.
+Mikkel Vedby Rasmussen, professor, institut for statskundskab, Københavns Universitet.</description>
+      <pubDate>Mon, 27 Apr 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:36</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651081/adfb30b0dc30e3159cb95ba353955abca3f100a315b1b8c1c8c333c32295c246.mp3" type="audio/mpeg" length="23926924" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651080</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/weird-vaabenhvile-italiensk-forlomme-jagede-vaerter-11802651080</link>
+      <title>Weird våbenhvile, italiensk forlomme, jagede værter</title>
+      <description>Mens der er erklæret våbenhvile mellem USA og Iran på ubestemt tid, så støder de to lande fortsat sammen i Hormuzstrædet, så hvad er det for en mærkelig våbenhvile? 
+Krigen mellem USA og Iran kan måske ende med at få betydning for det fodbold-VM, som USA er vært for til sommer. For nu foreslår en af Trumps folk at smide Iran ud af turneringen og i stedet give pladsen til italienerne, som ikke er kvalificeret. 
+Det har fået mange reaktioner, at det legendariske DR-program Nak og Æd får nye værter, og viser historien i virkeligheden, at udviklingen i tv-branchen er gået i stå? 
+Vært: Adrian Busk.
+Medvirkende: 
+Isabel Bramsen, fredsforsker, Lunds Universitet.
+Palle Strøm, mangeårig tv-mand, udviklingsdirektør, Monday.</description>
+      <pubDate>Fri, 24 Apr 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:24</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651080/d4dd7a600b5089e9a912a31daf010c40d38a4a5434bb624a7df587b3ebadd66e.mp3" type="audio/mpeg" length="22190288" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651079</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/pres-paa-praestestyret-milliarder-til-ukraine-og-festglad-fbi-chef-11802651079</link>
+      <title>Pres på præstestyret, milliarder til Ukraine og festglad FBI-chef</title>
+      <description>Våbenhvilen mellem USA og Iran blev natten til onsdag forlænget, men for nogle iranere var det faktisk en skuffelse. For dem er bekæmpelsen af præstestyret lige nu vigtigere end fred. 
+Et gigantisk lån har igen og igen været et stridspunkt i EU, men nu ser det ud til, at man vil sikre 90 milliarder euro til Ukraine. 
+Kash Patel, som står i spidsen for FBI, er ikke som sine forgængere. Han bliver beskyldt for at have et sløset forhold til både penge og alkohol, så hvilket aftryk sætter det på den gamle, vigtige institution?
+Vært: Amalie Schroll Munk.
+Medvirkende: 
+Salar Saroneh, forperson, Voice of Iran.
+David Trads, journalist, forfatter, USA-ekspert.</description>
+      <pubDate>Thu, 23 Apr 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:34</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651079/ea1c99841c4bba21ff9dc5a94ab7774648bb3f72465f1c279c1c6aa301cc460f.mp3" type="audio/mpeg" length="23875661" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651078</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/loekkes-kyllingeleg-tim-er-cooked-michael-jackson-tribute-11802651078</link>
+      <title>Løkkes kyllingeleg, Tim er Cooked, Michael Jackson tribute</title>
+      <description>Danmark har stadigvæk ikke nogen ny regering. Og hvis man spørger hvorfor, så peger fingrene ofte i retning af Lars Løkke Rasmussen.
+Tim Cook stopper som direktør for Apple. Så hvordan klarede han at løfte arven fra sin karismatiske forgænger, Steve Jobs? 
+Biograferne viser nu den nye film om Michael Jackson. Men kritiske røster følger med filmen. For er den i virkeligheden mest af alt et forsøg på at redde superstjernens blakkede ry?
+Vært: Adrian Busk.
+Medvirkende: 
+Steffen Hjaltelin, forhv. særlig rådgiver for Anders Fogh Rasmussen og Lars Løkke Rasmussen.
+Ralf Christensen, musikredaktør og filmanmelder på Dagbladet Information.</description>
+      <pubDate>Wed, 22 Apr 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:23</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651078/787b849a96900846d55cde3c8d2fcc365ad47fdfda966206c4eddb3e4ee9802a.mp3" type="audio/mpeg" length="23598029" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651077</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/max-ud-paa-looks-robotterne-kommer-og-en-ny-eu-hovedpine-11802651077</link>
+      <title>Max ud på looks, robotterne kommer og en ny EU-hovedpine</title>
+      <description>Bulgarien ser ud til at få en ny premierminister med prorussiske træk. Det lettelsens suk, der lød rundt omkring i Europa, da Viktor Orbán tabte det ungarske valg, bliver måske mødt af en ny sten i skoen i EU.
+En humanoid robot har vundet stort over et menneskehav til et halvmaraton i Kina. Og den bedrift viser, hvor langt robotterne er ved at være.
+Looksmaxxing - en tendens, hvor primært unge mænd forsøger at opnå det bedst mulige udseende - er ved at snige sig ind på mainstreamscenen.
+Vært: Amalie Schroll Munk.
+Medvirkende: 
+Marcus Popov Damgaard, Projektleder i Demokrati i Europa Oplysningsforbundet og ansvarshavende chefredaktør Magasinet rØST.
+Line Sand, journalist, Zetland.</description>
+      <pubDate>Tue, 21 Apr 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651077/099d1a7e6e5968ddcb0c47b38fab055b63ca0956cbd8151bb4789511d9cb38e8.mp3" type="audio/mpeg" length="25926217" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651076</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/mytisk-ai-groenne-haab-og-paedofiljaegere-i-retten-11802651076</link>
+      <title>Mytisk AI, grønne håb og pædofiljægere i retten</title>
+      <description>Krigen i Mellemøsten og blokaden af Hormuzstrædet har skabt store bekymringer for mangel på brændstof verden over. Men krisen har også skabt en grøn optimisme hos nogle.
+Tre selverklærede pædofiljægeres skæbne skal i dag afgøres i retten i Svendborg. Her vil man nemlig have dem straffet for et overfald, som er blevet filmet og delt online.
+To af de store AI-virksomheder mener, at deres seneste sprogmodeller er så kraftfulde, at de ikke tør slippe dem fri. Men hvad er det, de mener, teknologien kan? 
+Værter: Adrian Busk og Amalie Schroll Munk.
+Medvirkende: 
+Torsten Hasforth, cheføkonom, den grønne tænketank Concito.
+Trine Maria Ilsøe, retskorrespondent, DR.
+Therese Moreau, journalist og lederskribent, Ingeniøren.</description>
+      <pubDate>Mon, 20 Apr 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:49</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651076/78d5a98f074e791e353641781821f873461cedd6e8f0d85dd2630ad82ca707af.mp3" type="audio/mpeg" length="27119126" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651075</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/lego-krig-medvind-i-ukraine-og-monopol-paa-billetter-11802651075</link>
+      <title>LEGO-krig, medvind i Ukraine og monopol på billetter</title>
+      <description>Ukraine ser ud til at have medvind på slagmarken, og selvom de ikke ligefrem er ved at vinde krigen, er der tre ting, som går Ukraines vej lige nu. 
+Billetudbyderen Ticketmaster er længe blevet kritiseret for deres forretningsmodel og dyre priser, og nu er virksomheden bag blevet dømt for at føre ulovligt monopol.
+Mens der er våbenhvile i krigen i Iran, er der en anden krig, som udkæmpes - nemlig en online meme-krig. På den front har Iran rustet sig med provokerende LEGO-videoer. 
+Vært: Amalie Schroll Munk.
+Medvirkende: 
+Emil Rottbøll, Ruslandskorrespondent, Berlingske.
+Katrine Krogh Pedersen, ekstern lektor i medievidenskab ved Københavns Universitet.</description>
+      <pubDate>Fri, 17 Apr 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651075/38b21d3159f18dae3e30eb0ed4c24dccd270a8396c0acd5d3e6dd1445be5576a.mp3" type="audio/mpeg" length="24483333" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651074</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/arvefjenders-forhandling-alletiders-axelsen-og-oversete-iranere-11802651074</link>
+      <title>Arvefjenders forhandling, alletiders Axelsen og oversete iranere</title>
+      <description>For første gang i tre årtier mødes Israel og Libanon direkte med hinanden for at forhandle om fred. Men spørgsmålet er, om de to arvefjender kan blive enige om noget.
+Det handlede om iranere, da tusinder gik på gaden i landet i januar, men med krig, stigende oliepriser og en skrøbelig våbenhvile er iranerne blevet glemt, mener en af dem, der håbede, at krigen ville betyde præstestyrets endeligt.
+Den største danske badmintonspiller nogensinde, 32-årige Viktor Axelsen, indstiller karrieren på grund af en skade. Satte vi for lidt pris på Axelsens succes?  
+Vært: Adrian Busk.
+Medvirkende: 
+Anne Kirstine Rønn, Adjunkt, Institut for Statskundskab, Aarhus Universitet.
+Mozhdeh Ghasemiyani, dansk-iraner, klinisk psykolog med speciale i krisepsykologi.
+Steen Schleicher Pedersen, badmintonkommentator og tidligere landsholdstræner.</description>
+      <pubDate>Thu, 16 Apr 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:20</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651074/526020cd6453f7527378a5ccdf4ad840664805a5f4423ee4a9d1c786f7b37807.mp3" type="audio/mpeg" length="26418122" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651073</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/paven-og-praesidenten-amerikansk-livline-og-en-for-fri-britney-11802651073</link>
+      <title>Paven og præsidenten, amerikansk livline og en for fri Britney?</title>
+      <description>Den amerikanske præsident har set sig godt og grundigt sur på paven, men er paven blevet for politisk? 
+Den lille grønlandske bygd Narsarsuaq er tæt på at blive helt affolket, men den udvikling kan amerikanerne måske ende med at standse. 
+For få år siden kæmpede Britney Spears' fans for, at hun skulle slippe fri - ud af sin fars værgemål. Nu er hun sigtet for at køre bil i påvirket tilstand og er gået i misbrugsbehandling, så blev Britney egentlig fri? 
+Vært: Amalie Schroll Munk.
+Medvirkende: 
+Jesper Fich, katolsk sognepræst, Skt. Mariæ Kirke.
+Mads Korsager, forsvarskorrespondent, DR.
+Christian Ellegaard, Britney-fan og journalist, DR.</description>
+      <pubDate>Wed, 15 Apr 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:37</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651073/9e380b7052b91215c36145ca4414e3418b9d9479523ac6271f6fca949c259b78.mp3" type="audio/mpeg" length="25381902" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651072</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/ungarn-uden-orban-trumps-hormuz-blokade-og-blaaoejet-forhandling-11802651072</link>
+      <title>Ungarn uden Orbán, Trumps Hormuz-blokade og blåøjet forhandling?</title>
+      <description>Venstre og Konservative er blevet inviteret til regeringsforhandlinger. Men er der overhovedet nogen sandsynlighed for, at de vil indgå et samarbejde med Mette Frederiksen? 
+USA begyndte mandag en blokade af den del af skibstrafikken i Hormuzstrædet, der går til og fra iranske havne. 
+I Ungarn har de valgt en ny leder efter 16 år med Viktor Orbán, men hvad vil nyvalgte Peter Magyar med magten? 
+Vært: Adrian Busk.
+Medvirkende: 
+Jacob Bruun, tidl. rådgiver i Venstre for Lars Løkke Rasmussen, indehaver af Bruun Advisory.
+Matilde Kimer, korrespondent i Ukraine og Rusland, DR.</description>
+      <pubDate>Tue, 14 Apr 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:24</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651072/e1b0ce505a8d21eeef36918a1fdee70772342002c1f0123d79c3bfd455f01286.mp3" type="audio/mpeg" length="23618759" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651071</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/ubaadsballade-vrede-wolt-bude-og-hegseths-hellige-krig-11802651071</link>
+      <title>Ubådsballade, vrede Wolt-bude og Hegseths hellige krig</title>
+      <description>Tre russiske ubåde har i en måneds tid sejlet rundt i farvandet nord for Storbritannien. Men briterne har konstant holdt øje med dem af frygt for mulig hybridkrigsførsel.
+Danske Wolt-bude kører i kortege rundt i de københavnske gader. Ikke med mad, men for at demonstrere. De mener, at lønnen er for lav, men Wolt siger, at de tager fejl.
+USA's selverklærede 'krigsminister', Pete Hegseth, kæmper for kristendommen, og det skal det amerikanske militær også. Så har amerikanerne lige været på korstog i Iran? 
+Vært: Amalie Schroll Munk.
+Medvirkende: 
+Mikkel Storm, Han er major og militæranalytiker ved Institut for Strategi og Krigsstudier ved Forsvarsakademiet.
+Matias Seidelin, forfatter og sikkerhedspolitisk seniorkorrespondent, Olfi.</description>
+      <pubDate>Mon, 13 Apr 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:18</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651071/96291c562f69bb898b42fdba52843f5e3032bc8c56df8afcc11b543ed125c5bf.mp3" type="audio/mpeg" length="24917068" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651070</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/en-pagt-i-pakistan-pandadiplo-og-orbans-omgangskreds-11802651070</link>
+      <title>En pagt i Pakistan, pandadiplo og Orbáns omgangskreds</title>
+      <description>Pakistan får besøg af to stridende parter. Iran og USA skal prøve at finde fælles fodslag ovenpå flere ugers krig, og pakistanerne får nok at se til som fredsmæglere.
+I Zoologisk Have København krydser de fingre for, at insemineringen af deres hunpanda kommer til at give pote. Men dyrepassernes forsøg har storpolitiske perspektiver.
+Russere og amerikanere krydser fingre for, at Viktor Orbán vinder valget i Ungarn. Og måske har de gjort mere end bare at håbe.
+Vært: Amalie Schroll Munk.
+Medvirkende: 
+Steffen Kretz, DR's internationale korrespondent.
+Marlene Wind, professor på Institut for Statskundskab ved Københavns Universitet og leder af Center for Europæisk Politik.</description>
+      <pubDate>Fri, 10 Apr 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:17</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651070/f181961642ae85f374e20b51ec4ed58426b350b4d056f1892d24ee9675a69bca.mp3" type="audio/mpeg" length="24898637" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651069</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/alle-vandt-krigen-vanvittige-vedtaegter-og-ai-sociopaten-11802651069</link>
+      <title>Alle vandt krigen, vanvittige vedtægter og AI-sociopaten</title>
+      <description>En våbenhvile i Iran er trådt i kraft, og både amerikanerne og iranerne har været hurtige til at udråbe sig selv som den sejrende part. Men hvem har egentlig vundet? 
+Vi har nu endelig fået Borgernes Partis omdiskuterede vedtægter at se. Og de løfter sløret for, hvor meget magt Lars Boje Mathiesen har i partiet. 
+En af AI-verdenens absolut mest centrale figurer, direktør for OpenAI, Sam Altman, bliver beskyldt for at være manipulerende og sociopatisk. Så hvor stort et problem er det, at han har så meget magt over vores fremtid? 
+Vært: Adrian Busk.
+Medvirkende: 
+David Vestenskov, chefkonsulent, Forsvarsakademiet.
+Anders Bæk, AI-foredragsholder og forfatter til bogen 'AI Epoken'.</description>
+      <pubDate>Thu, 09 Apr 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:17</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651069/907555275964af86c4af570e1a94cd706c977d92494a6b3513f6bfea2ead79c1.mp3" type="audio/mpeg" length="24889998" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651068</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/mennesker-om-maanen-kanyes-comeback-og-bye-bye-nato-11802651068</link>
+      <title>Mennesker om Månen, Kanyes comeback og bye bye Nato</title>
+      <description>Den første bemandede rejse mod Månen i 54 år finder de her dage sted. Artemis II, som missionen hedder, varsler en ny æra for rejser til Månen.
+Kanye West forsøger at få et comeback, men hans brogede fortid med mere end én shitstorm ser ud til at sætte en kæp i hjulet på de planer. Og nu er Keir Starmer gået ind i sagen.
+På et pressemøde kritiserer Donald Trump igen igen Nato og lufter idéen om at trække USA ud af alliancen. Men hvad er Nato uden USA?
+Vært: Adrian Busk.
+Medvirkende: 
+Christina Toldbo, astrofysiker og leder af Rundetaarns Observatorium.
+Mikkel Vedby Rasmussen, professor, Institut for statskundskab, Københavns Universitet.</description>
+      <pubDate>Wed, 08 Apr 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:45</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651068/76570c79235701a5b03922214f92dd746d27c990e5ad939ee058d1abe40b3d58.mp3" type="audio/mpeg" length="24127948" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651067</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/trumps-tomme-trusler-bojes-parti-og-en-vulgaer-valgkamp-11802651067</link>
+      <title>Trumps tomme trusler, Bojes Parti og en vulgær valgkamp</title>
+      <description>Trump har givet Iran endnu et ultimatum. Hvis ikke de åbner for Hormuz-strædet inden natten til onsdag, så falder der brænde ned. Men virker Trumps trusler overhovedet? 
+Borgernes Parti har mistet endnu et folketingsmedlem. Partiformanden Lars Boje Mathiesen bliver anklaget for at være magtfuldkommen og hyklerisk. Så hvad er det, der foregår, i det nyeste parti på Christiansborg? 
+Valget i Ungarn skal snart afgøres. På trods af at have ført en hård og temmelig beskidt valgkamp ser det ikke så lovende ud for den siddende premierminister, Viktor Orbán.
+Vært: Adrian Busk.
+Medvirkende: 
+Mikkel Gudsøe, adjungeret lektor, AU og ph.d.-stipendiat i Politiske Forhandlinger, SDU.
+Matilde Kimer, DR's Rusland- og Ukrainekorrespondent.</description>
+      <pubDate>Tue, 07 Apr 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:52</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651067/2019251595728baabfe1f94e94dd107867ccf26d05553790286b9ac7ceea3830.mp3" type="audio/mpeg" length="24292680" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651064</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/nervoese-olie-arne-riemer-raus-og-pirrelige-potterheads-11802651064</link>
+      <title>Nervøse Olie-Arne, Riemer raus og pirrelige Potterheads</title>
+      <description>Krigen i Iran sørger for, at oliepriserne stiger og stiger. Nu begynder det også at kunne mærkes andre steder end på tankstationen. Så er krisen i virkeligheden kun i sin spæde begyndelse?
+Danmark skal ikke til VM i fodbold til sommer. Så nu står den på selvransagelse.
+Harry Potter vender tilbage i en tv-serie til vinter, og traileren har slået alle seerrekorder på HBO. Men i baggrunden lurer utilfredse Harry Potter-fans.
+Vært: Adrian Busk.
+Medvirkende: 
+Arne Lohmann Rasmussen, chefanalytiker ved rådgivningsvirksomheden Global Risk Management.
+Andreas Kraul, DR's fodboldkommentator.
+Mathilde Johanne Kristiansen, kulturjournalist på Soundvenue.</description>
+      <pubDate>Thu, 02 Apr 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:51</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651064/f027ee1684f280133372ac23340690792993e7a70ddde90a95de1d01d00f51bb.mp3" type="audio/mpeg" length="25718286" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651063</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/ai-diagnose-svensk-momshjaelp-og-en-ministerfallos-11802651063</link>
+      <title>AI-diagnose, svensk momshjælp og en ministerfallos</title>
+      <description>Færre og færre besøger hjemmesiden sundhed.dk, og flere og flere bruger kunstig intelligens til at få svar på deres sundhedsspørgsmål. Men danskerne risikerer måske deres helbred, hvis de bruger AI som deres foretrukne sundhedsplatform.
+I Sverige halverer de nu momsen på fødevarer for at afhjælpe de stigende fødevarepriser. Så kan Danmark lære noget af dem?
+Ministerbilerne skal fordeles, hvis altså der snart bliver formet en ny regering. Og det er ikke nogle helt almindelige køretøjer, de danske ministre kører rundt i.
+Vært: Adrian Busk.
+Medvirkende: 
+Mette Mogensen, hudlæge på Bispebjerg Hospital og klinisk forskningslektor ved Københavns Universitet.
+Per Bang Thomsen, Østersø- og Nordenkorrespondent på DR.
+Joachim Stender, marketingansvarlig ved GranTurismo Cars og bilekspert.</description>
+      <pubDate>Wed, 01 Apr 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:30</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651063/dabde78ac29f00d42eef0cd107a5dee038d340623b7b0d29148f5789ecab41f8.mp3" type="audio/mpeg" length="23770828" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651062</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/loesgaenger-non-grata-irans-hovedpulsaare-og-diskriminerende-doedsstraf-11802651062</link>
+      <title>Løsgænger non grata, Irans hovedpulsåre og diskriminerende dødsstraf</title>
+      <description>To nye folketingsmedlemmer er kun en lille uge efter valget blevet smidt ud af deres partier. En tidligere løsgænger har ét råd til dem: Forlad Christiansborg.
+Trump truer med at tage Irans olie. Og hvis han rent faktisk giver sig i kast med det, så kommer vi formentlig til at høre en hel del om øen Kharg, det iranske knudepunkt for deres olieeksport.
+I Israel skal politikerne tage stilling til en ny lov, der skal gøre det nemmere at straffe personer, som dømmes for terrorisme, med dødsstraf. Men lovforslaget kritiseres for at være diskriminerende.
+Vært: Adrian Busk.
+Medvirkende:
+Jeppe Søe, tidligere medlem af Folketinget.
+Nanna Muus Steffensen, mellemøstkorrespondent i DR.</description>
+      <pubDate>Tue, 31 Mar 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:48</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651062/7e09ad80d94c2f66ac4a8d22265c753a140cfab796a87854c6ca9bb3465d26db.mp3" type="audio/mpeg" length="24202251" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651061</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/hollandske-tilstande-en-ekstrem-el-nino-og-taco-trading-11802651061</link>
+      <title>Hollandske tilstande, en ekstrem el niño og TACO-trading</title>
+      <description>Vi får nok ikke en ny regering at se inden for den allernærmeste fremtid. Men det er noget, de er vant til i Holland, hvor regeringsforhandlinger har det med at vare i månedsvis. Så kan vi lære af hollænderne? 
+Verden kan i år blive ramt af et voldsomt klimafænomen: En såkaldt super-El niño. Hvis det sker, er der udsigt til mere ekstremt vejr rundt omkring på jorden.
+Når Trump smider opslag på Truth Social, flyver aktiekurserne op og ned. Og det er der nogen, som tjener rigtig mange penge på. Men er der noget, der måske ser lidt mistænkeligt ud?
+Vært: Adrian Busk.
+Medvirkende: 
+Thomas Jorsal, journalist på DR's udlandsredaktion.
+Per Hansen, investeringsøkonom hos Nordnet.</description>
+      <pubDate>Mon, 30 Mar 2026 03:00:00 +0200</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:21</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651061/9a663de492ab69121be1efdb238fb4ae275d7d81a466df2fbbdfd31150f02db0.mp3" type="audio/mpeg" length="23566923" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651060</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/vaelgerlussing-til-venstre-some-sagsoegt-og-soerens-smoerrebroed-11802651060</link>
+      <title>Vælgerlussing til Venstre, SoMe sagsøgt og Sørens smørrebrød</title>
+      <description>Venstre har fået en vaskeægte vælgerlussing. Faktisk det dårligste valgresultat nogensinde. Så hvad skal der blive af det gamle, stolte parti nu?
+Meta og Google har tabt en opsigtsvækkende retssag til en amerikansk mor, der har sagsøgt dem for at skade hendes datters mentale helbred. Og det kan blive den første retssag af mange.
+Smørrebrød er indbegrebet af danskhed. I hvert fald hvis man spørger Søren K. Villemoes. Men med alle de indforståetheder og regler, som hører til retten, og som kun danskere kender til, er det så egentlig også en lidt ekskluderende spise?
+Vært: Amalie Schroll Munk.
+Medvirkende: 
+Morten Reimar, selvstændig kommunikationsrådgiver, tidligere rådgiver hos Venstre og Radikale Venstre.
+Søren K. Villemoes, journalist på Weekendavisen.</description>
+      <pubDate>Fri, 27 Mar 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:26</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651060/f91d977baeca97416aa542067a76e097df7b1b132e1294b1e47d62acd8669f28.mp3" type="audio/mpeg" length="23683853" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651059</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/skroebelig-regering-trump-you-re-fired-og-faeringernes-valg-11802651059</link>
+      <title>Skrøbelig regering, 'Trump, you're fired' og færingernes valg</title>
+      <description>Opgaven med at få skabt en ny regering ser mildest talt kompliceret ud. Og det kunne godt tyde på, at det uanset hvad ender ud i en lidt skrøbelig en af slagsen. 
+Trump fortæller, at der er forhandlinger i gang mellem USA og Iran. Men Iran siger, at USA forhandler med sig selv. Så hvad er egentlig op og ned i den sag?
+Der er valg i dag. Færingerne skal til stemmeurnerne efter en valgkamp, der er kommet til at handle en hel del om Rigsfællesskabet og løsrivelse fra Danmark.
+Værter: Adrian Busk og Amalie Schroll Munk.
+Medvirkende: 
+Lars Trier Mogensen, politisk kommentator, Dagbladet Information, vært, P1.
+Heini í Skorini, lektor i international politik ved Færøernes Universitet.</description>
+      <pubDate>Thu, 26 Mar 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:34</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651059/12d901e010a7efb8eac41e668dbdc83244364b8e44528b600381e8b3090a379d.mp3" type="audio/mpeg" length="23876808" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651058</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/valgnat-paa-borgen-11802651058</link>
+      <title>Valgnat på Borgen</title>
+      <description>Tiden var med hele aftenen og natten, da folketingsvalget løb af stablen. Vi giver dig det vigtigste om valgets vindere og tabere inde fra gangene på Christiansborg.
+Værter: Amalie Schroll Munk og Adrian Busk.
+Medvirkende: 
+Marchen Neel Gjertsen, politisk kommentator og forhenværende chefredaktør på Jyllands-Posten.
+Mogens Lykketoft, tidligere formand for socialdemokratiet.</description>
+      <pubDate>Wed, 25 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:20:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651058/31c17f48f21a00109adbe0f65a30e96536e702084d000d742355a8b3dc559142.mp3" type="audio/mpeg" length="28822338" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651057</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/svinene-vandt-debatten-taco-returns-og-et-kryds-for-karisma-11802651057</link>
+      <title>Svinene vandt debatten, TACO returns og et kryds for karisma</title>
+      <description>Folketingsvalget er endt med at stå i grisens tegn. Så måske er der bedre forhold og velfærd til vores firbenede venner i grisestaldene på den anden side af valget. 
+Konflikten mellem USA og Iran omkring det omstridte Hormuz-stræde holder sig fortsat lige omkring kogepunktet. Også selvom Trump nu ser ud til at leve op til øgenavnet 'TACO'. Trump Always Chickens Out.
+Partiledernes personligheder er endt med at fylde en hel del til folketingsvalget. Men glemmer vi politik og substans, når det flyder med Tiktok og reality-tv? 
+Værter: Adrian Busk og Amalie Schroll Munk.
+Medvirkende: 
+Signe Wolff Ravneberg, projektkonsulent i Tænketanken Prospekt og klummeskribent i Altinget og Kristeligt Dagblad.
+Bengt Holst, formand for Det Dyreetiske Råd og tidligere direktør i Zoologisk Have i København.</description>
+      <pubDate>Tue, 24 Mar 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:23</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651057/8e6c960ba49b171db331542534bea82a1f1cc313bf965e417d797d72bf752f4c.mp3" type="audio/mpeg" length="25034572" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651056</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/demokratiets-aftenslagsmaal-groenlandsk-selvtillid-og-putins-pov-11802651056</link>
+      <title>Demokratiets Aftenslagsmål, grønlandsk selvtillid og Putins POV</title>
+      <description>En af valgkampens sidste partilederdebatter løb af stablen søndag til Demokratiets Aften. Så hvordan gik det politiske slagsmål? 
+Mange af de grønlandske folketingskandidater har hårde krav til de danske politikere, hvis de vil have deres støtte. Og det kan få en afgørende betydning, når der skal samles en dansk regering efter valget.
+Krigen i Mellemøsten får masser af opmærksomhed, mens krigen mellem Rusland og Ukraine er blevet skubbet lidt i baggrunden. Så er konflikten i Mellemøsten noget, der kommer Putin til gode? 
+Vært: Adrian Busk.
+Medvirkende: 
+Lasse Lindegaard, journalist, som dækker Grønland for DR.
+Emil Rottbøll, Ruslandskorrespondent for Berlingske.</description>
+      <pubDate>Mon, 23 Mar 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:35</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651056/69b7e9d2af1e9e31eb0080d002a018ddea08dcc5958b50662f61ec60f36402ee.mp3" type="audio/mpeg" length="25326605" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651055</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/veteranens-vrede-dfs-fremtidsdroemme-og-et-stort-dilemma-11802651055</link>
+      <title>Veteranens vrede, DFs fremtidsdrømme og et stort dilemma</title>
+      <description>Joseph Kent har sagt op som national antiterrorchef i USA i protest mod krigen i Iran, og det understreger en udbredt utilfredshed med Trumps krig. 
+Hvordan ser Danmark ud om ti år, hvis Dansk Folkeparti får deres ultimative krav opfyldt? Altså, at der er flere personer fra muslimske lande, som forlader Danmark, end der kommer hertil.
+En række golfstater fordømmer de iranske angreb, der fortsat rammer dem. Spørgsmålet er, om de kan finde på at sætte hårdt mod hårdt. 
+Værter: Adrian Busk og Amalie Schroll Munk.
+Medvirkende: 
+Jacob Nielsen Arendt, chef for forskning i arbejdsmarked og integration, Rockwool Fonden.
+Jacob Fuglsang, USA-korrespondent, Politiken.</description>
+      <pubDate>Fri, 20 Mar 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:42</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651055/f55f0a265ca6b2745a38d7f9baec8cdeeec97023e21e54d4f80b792a4fd174f1.mp3" type="audio/mpeg" length="25507462" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651054</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/blod-i-lasten-siumuts-nedsmeltning-og-formueskat-i-fremtiden-11802651054</link>
+      <title>Blod i lasten, Siumuts nedsmeltning og formueskat i fremtiden</title>
+      <description>Der var sprængstof og blodposer i lasten, da danske og europæiske soldater ankom til Grønland i begyndelsen af året. Det erfarer DR på baggrund af en række nøglekilder tæt på grønlandskrisen, der også beskriver en reel frygt for et amerikansk angreb mod Grønland. 
+To af Grønlands mest markante politikere har forladt det grønlandske parti Siumut - Socialdemokratiets søsterparti - efter at partiet har trukket sig fra den grønlandske regering. 
+Vil en formueskat gøre Danmark fattigere? Og vil det bremse den stigende ulighed? 'Tidens tidsmaskine' spoler ti år frem for at undersøge, hvordan det ser ud, hvis der bliver indført en formueskat efter valget.
+Værter: Amalie Schroll Munk og Adrian Busk.
+Medvirkende: 
+Niels Fastrup, undersøgende journalist, DR.
+Henning Boye Hansen, chefkonsulent og skatteekspert, BDO.</description>
+      <pubDate>Thu, 19 Mar 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:19:15</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651054/09cac7ba4886154b1b3ee653bd91d8f06ceb0d5781389484f0b5ee4f2eaf0ca5.mp3" type="audio/mpeg" length="27733714" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651053</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/lars-med-magten-cuba-uden-stroem-og-en-hvid-monner-11802651053</link>
+      <title>Lars med magten, Cuba uden strøm og en hvid Monner</title>
+      <description>Meningsmåling efter meningsmåling placerer Moderaterne og Lars Løkke Rasmussen som kongemager efter valget. Men hvordan vil Løkke bruge den position?
+Strømmen har været helt forsvundet i Cuba, og det fortæller noget om, hvor massivt et pres landets kommunistiske styre er under.
+Danskerne drikker mere energidrik end de fleste andre i Europa. Men hvordan gik en læskedrik, der for få årtier siden var ulovlig, til at være mange unges foretrukne? 
+Vært: Amalie Schroll Munk.
+Medvirkende: 
+Steffen Hjaltelin, politisk analytiker, tidl. toprådgiver, Venstre.
+Lasse Yde Hegnet, Cuba-kender og journalist, P4 Bornholm.
+Jacob Holst Mouritzen, strategikonsulent, livsstilsekspert.</description>
+      <pubDate>Wed, 18 Mar 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:18</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651053/fbe2d4a112928b8d3b074e86a67e85f2d7c66d0be35435a196eb8aa5dfa9c6a6.mp3" type="audio/mpeg" length="24932043" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651052</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/coke-eller-ej-nato-i-hormuz-og-et-svinevalg-11802651052</link>
+      <title>Coke eller ej, Nato i Hormuz og et svinevalg</title>
+      <description>Det er blevet kaldt vildt og et potentielt politisk problem, at Liberal Alliances partileder, Alex Vanopslagh, nu har indrømmet, at han har taget kokain "en til to gange", mens han har været partileder. Men er det et problem for de unge, der overvejer at stemme på ham? 
+Trump vil have hjælp fra de europæiske Nato-lande til at sikre gennemsejling i Hormuzstrædet, hvilket dilemma sætter det de europæiske Nato-lande i? 
+Hvad oplever man som ansat på et tilfældigt konventionelt svinelandbrug i Danmark? Det kan man læse om i en ny bog, som er udkommet midt i en valgkamp, hvor en række partier vil have begrænset den danske svinebesætning. 
+Vært: Adrian Busk.
+Medvirkende: 
+Ole Ryborg, NATO -og EU korrespondent, DR.
+Max Sønderskov, studerende, CBS.
+Jannick Denker, studerende, CBS, 21 år.
+Jesper Sørensen, studerende, CBS, 21 år.
+Viktor Asani, arbejder i Silvan, 18 år.
+Klara Trebbien Rasmussen, journalist og forfatter.</description>
+      <pubDate>Tue, 17 Mar 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:44</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651052/234edc98f625d29c8a85c6256a723c072f1471c9c745ce89a0f17ff9f30003d6.mp3" type="audio/mpeg" length="24121028" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651051</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/hizbollah-forbandelsen-nepals-unge-haab-og-dem-uden-stemme-11802651051</link>
+      <title>Hizbollah-forbandelsen, Nepals unge håb og dem uden stemme</title>
+      <description>Selvom det egentlig var besluttet at afvæbne Hizbollah, så er den libanesiske civilbefolkning endnu engang endt som gidsler i en konflikt mellem Hizbollah og Israel. Spørgsmålet er, om de nogensinde vil slippe af med Hizbollah-forbandelsen? 
+Nepal har fået en ny premierminister. Han er en 35-årig tidligere rapper, som står som et klart symbol på det opgør, landets unge har taget med magteliten.
+Antallet af myndige danskere, der ikke kan stemme til folketingsvalget, vokser. For nogle af dem føles det som at være på et demokratisk b-hold, men er det et problem, at det kun er danske statsborgere, der må sætte kryds ved folketingsvalg? 
+Værter: Amalie Schroll Munk og Adrian Busk.
+Medvirkende: 
+Sune Haugbølle, professor i Mellemøststudier, RUC.
+Estefanía Bozzo Maldonado, journaliststuderende, DMJX.</description>
+      <pubDate>Mon, 16 Mar 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:29</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651051/71d4079e5e7d47798c733dda7faf1712f4f6a0f1a685acf774091780a6c24e39.mp3" type="audio/mpeg" length="23738567" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651050</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/nomaeffekten-den-iranske-pigeskole-og-drikkevand-anno-2056-11802651050</link>
+      <title>Nomaeffekten, den iranske pigeskole og drikkevand anno 2056</title>
+      <description>Danmark har opnået status som et land med verdens bedste kokke og restauranter. Så rammer det også det danske gastrobrand, når Nomas ry svækkes? 
+Da USA og Israel indledte krigen i Iran, blev en pigeskole ramt. Alt tyder nu på, at det var amerikanerne, der sendte det angreb af sted, men vil det få betydning for Trump og krigen?  
+Drikkevand er et centralt emne i valgkampen, og mange partier vil forbyde sprøjtegift helt i nogle områder for drikkevandets skyld. Hvordan vil det forandre Danmark - landbruget, naturen og vandet - hvis det bliver til virkelighed?
+Vært: Adrian Busk. 
+Medvirkende: 
+Rasmus Sinding Søndergaard, seniorforsker, DIIS.
+Eva Svavars, brandingekspert og partner, LEAD Agency.
+Agnete Finnemann Scheel, klima -og miljøjournalist, DR.</description>
+      <pubDate>Fri, 13 Mar 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651050/ff20e02c5f55fcd40e79ca5388b4c28c9d72a1197cfd6fa9d8db30d7d225c17a.mp3" type="audio/mpeg" length="24568584" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651049</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/timothee-falmer-kendiskampagner-og-groenlandsk-mandatsplid-11802651049</link>
+      <title>Timothée falmer, kendiskampagner og grønlandsk mandatsplid</title>
+      <description>Birthe Kjær, Suspekt, Anders Matthesen og Peter AG har alle det tilfælles, at de er vrede over, at politikerne bruger dem eller sange i kampagner. Hvorfor spørger politikerne ikke om lov? 
+Den unge Oscar-nominerede skuespiller Timothée Chalamet har været blandt Hollywoods hotteste i mange år. Men... Nu kan han pludselig ikke lide opera og ballet.
+Det danske valg har sendt rystelser helt ind i den grønlandske regering. Der skal nemlig også findes to nye grønlandske mandater til Folketinget, men hvorfor splitter det regeringen?
+Værter: Amalie Schroll Munk og Adrian Busk.
+Medvirkende: 
+Karoline Engelund, DRs journalist i Grønland.
+Morten Reimar, selvstændig kommunikationsrådgiver, Reimars Bureau.
+Bodil Skovgaard Nielsen, kritiker og kulturskribent, Dagbladet Information.</description>
+      <pubDate>Thu, 12 Mar 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:34</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651049/4ae4418beccb0dc40a0516fe18ce298e724060307c66eb7381873699b3feba11.mp3" type="audio/mpeg" length="25319109" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651048</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/olieeffekten-noma-demo-og-strammer-valg-11802651048</link>
+      <title>Olieeffekten, Noma-demo og strammer-valg</title>
+      <description>Olieprisen når i de her dage højder, vi ikke har set i årevis. Hvilke konsekvenser kan det få, hvis Irans blokade af Hormuzstrædet fortsætter?
+Når Noma i dag slår dørene op til en eksklusiv pop-up i LA, planlægger tidligere ansatte og fagforeninger at demonstrere imod det. En række tidligere medarbejdere er nemlig stået frem med beskyldninger om vold mod køkkenchef og grundlægger, René Redzepi. 
+Liberal Alliance lover et asylstop, Dansk Folkeparti vil sikre, at antallet af udlændinge i Danmark ikke stiger, og Socialdemokratiet mener at udlændingepolitikken er blandt de vigtigste emner. Så hvilken rolle kan udlændingedebatten ende med at få ved folketingsvalget? 
+Vært: Adrian Busk.
+Medvirkende: 
+Bent Winther, politisk kommentator, Berlingske.
+Arne Lohmann Rasmussen, chefanalytiker, Global Risk Management.</description>
+      <pubDate>Wed, 11 Mar 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:14</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651048/9ab0830ca2ea031c6ed8a60a01cc13e47c7aa9af6f3b67a16330d417de0161da.mp3" type="audio/mpeg" length="23394699" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651047</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/mettes-magt-den-nye-khamenei-og-en-ai-krig-11802651047</link>
+      <title>Mettes magt, den nye Khamenei og en AI-krig</title>
+      <description>Der er stadig to uger tilbage af valgkampen, men alligevel peger rigtig mange på, at Mette Frederiksen ender med magten efter valget. Men måske har et ømt punkt vist sig - formueskatten. Kan det stoppe Mette F.? 
+Irans nye leder er blevet fundet. Det bliver en af den dræbte Ayatollahs - for mange ukendte - sønner, som i årevis har været centralt placeret i Irans magtapparat.  
+Hvilke rammer skal der være for brugen af kunstig intelligens i krig? Det spørgsmål er blevet aktuelt efter et opgør mellem en AI-virksomhed og USA's forsvarsministerium. 
+Værter: Amalie Schroll Munk og Adrian Busk.
+Medvirkende: 
+Rikke Gjøl Mansø, politisk analytiker, DR.
+Daniel Møller Ølgaard, adjunkt,, Institut for Militær Teknologi, Forsvarsakademiet.</description>
+      <pubDate>Tue, 10 Mar 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:16</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651047/d3f3c3fd7181da244690e303fc7b3138e8c914fa00b5b36d54b0d9fde71e2ed3.mp3" type="audio/mpeg" length="24875589" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651046</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/ice-barbie-s-out-ukraine-til-undsaetning-og-afmagt-paa-borgen-11802651046</link>
+      <title>ICE-Barbie's out, Ukraine til undsætning og afmagt på Borgen</title>
+      <description>De folketingskandidater, der lige nu kæmper om de 179 pladser på Christiansborg, de kæmper også om et arbejdsliv præget af travlhed og magtesløshed. Men hvilke konsekvenser har politikernes stress for vores demokrati? 
+De iranske droner, der lige nu sigter mod amerikanske baser og allerede i Mellemøsten, har ukrainerne allerede erfaring med. Så nu har USA og deres allierede bedt ukrainerne om hjælp. 
+Kristi Noem har som minister stået i spidsen for den ICE-indsats og hårde linje over for immigranter, som Trump-administrationen har stået for. NU er hun blevet fyret, så hvad har fået hende smidt på porten? 
+Vært: Amalie Schroll Munk.
+Medvirkende: 
+Emil Husted, ph.d., lektor, CBS, forfatter til bogen 'Afmagtens Centrum'.
+Sidsel Nyholm, udlandsredaktør, Kristeligt Dagblad.</description>
+      <pubDate>Mon, 09 Mar 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:21</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651046/3b0198da82c732418cb97b85f1f01455defa4b8333108218797a8d9bddc8e959.mp3" type="audio/mpeg" length="25009223" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651045</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/kurdernes-kamp-russernes-flag-og-politikernes-boern-11802651045</link>
+      <title>Kurdernes kamp, russernes flag og politikernes børn</title>
+      <description>Bevæbnede kurdiske styrker kan være på vej til at involvere sig i den kaotiske situation i Iran. Hvilken rolle kan de komme til at spille? 
+Når de paralympiske lege begynder i dag, vil der igen vaje russiske og belarussiske flag. Det er måske bare første skridt mod, at de to lande er på vej tilbage ved de store sportsbegivenheder. 
+Valgkampen har affødt diskussioner om, hvorvidt forældreskab er foreneligt med en politisk karriere. Den diskussion har folketingskandidat Mette Abildgaard (KF) selv været centrum i, så vi spørger hende, om der er plads til moderskab i politik. 
+Værter: Amalie Schroll Munk og Adrian Busk.
+Medvirkende: 
+Hetav Rojan, adjunkt i international sikkerhed, Københavns Professionshøjskole.
+Stanis Elsborg, leder, Play the Game.
+Mette Abildgaard, folketingskandidat (KF) og mor.</description>
+      <pubDate>Fri, 06 Mar 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:13</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651045/e5b6fdcb9108f928e419df2121b89d12664d938e2204f71b148f91b57f2d9dd5.mp3" type="audio/mpeg" length="24812237" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651044</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/mette-insider-official-folkeskolen-paa-valg-og-haardknuden-i-hormuz-11802651044</link>
+      <title>Mette_insider_OFFICIAL, folkeskolen på valg og hårdknuden i Hormuz</title>
+      <description>Mette Frederiksen er i forbindelse med valgkampen kommet på TikTok med profilen Mette_Insider_OFFICIAL, på trods af at hun flere gange har kritiseret de sociale medier.  
+De fleste partier lover at forbedre den danske folkeskole, hvis de ender med magten efter valget. Hvorfor er folkeskolen blevet et centralt emne i valgkampen? 
+Krigen i Mellemøsten kan mærkes i det meste af verden, for på grund af krigen er en af verdens hovedveje for sejlads med olie og gas gjort usikker. 
+Værter: Adrian Busk og Amalie Schroll Munk. 
+Medvirkende: 
+Signe Løntoft, uddannelsesredaktør, Altinget.
+Kevin Shakir, journalist, DR Verificerer.</description>
+      <pubDate>Thu, 05 Mar 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:19</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651044/35ee81e0426a87475e621b5beac55a5d8b4db3d0866cbea7fb342ebe75e3bae3.mp3" type="audio/mpeg" length="22077960" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651043</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/politikere-paa-slap-line-irans-militaere-muskler-og-et-medieimperium-11802651043</link>
+      <title>Politikere på slap line, Irans militære muskler og et medieimperium</title>
+      <description>I et døgn har partilederne været samlet på en højskole med kameraerne rullende. Det er blevet et TV-program, der har premiere i dag, og som politikernes rådgivere frygter. Men hvad er der egentligt at være bange for? 
+Iran har de seneste dage rettet en række angreb mod amerikanske mål i Mellemøsten, men hvor længe kan de blive ved? 
+Meget tyder på, at den magtfulde Ellison-familie, der støtter USAs præsident, og som allerede ejer en række underholdnings -og nyhedskanaler, også kan ende med at købe Warner Brothers. Hvad tilføjer det til deres mediemagt? 
+Vært: Adrian Busk.
+Medvirkende: 
+Steffen Hjaltelin, forhv. særlig rådgiver for Anders Fogh Rasmussen og Lars Løkke Rasmussen.
+Jacob Kaarsbo, sikkerhedspolitisk rådgiver, tidl. chefanalytiker, FE.
+Mathias Sindberg, udlandsjournalist, Dagbladet Information.</description>
+      <pubDate>Wed, 04 Mar 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:53</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651043/5cdae31463aab210fdcf0ddcdfbf3b9716de59d1fcfc5f381e9651e64029ec40.mp3" type="audio/mpeg" length="25756300" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651042</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/mulighedernes-vindue-vandede-loefter-og-drab-i-familien-11802651042</link>
+      <title>Mulighedernes vindue, vandede løfter og drab i familien</title>
+      <description>Irans præstestyre har i knap fem årtier været blandt USAs værste fjender. Så hvorfor er det lige netop nu, at de med Operation 'Epic Fury' har sendt dødbringende angreb mod landet og ayatollahen?
+Fire partier var mandag samlet om ét budskab: vores drikkevand skal sikres mod sprøjtegift. Men mest bemærkelsesværdigt var, at de ikke havde inviteret Socialdemokratiet. 
+Det er ofte meget omtalt, når der begås partnerdrab i Danmark, men ikke så ofte hører man om de pårørende, der står tilbage. Det vil en ny bog gøre op med. 
+Værter: Adrian Busk og Amalie Schroll Munk.
+Medvirkende:
+Matias Seidelin, forfatter og sikkerhedspolitisk seniorkorrespondent, Olfi.
+Line Vaaben, forfatter og journalist, Politiken.</description>
+      <pubDate>Tue, 03 Mar 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:06</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651042/d603532ecfc245fc4ccd3449b2a09d6a293748746c3eded8043ce1a549c3b0dc.mp3" type="audio/mpeg" length="24627336" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651041</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/ayatollahens-doed-peptalk-til-troels-og-et-forsoemt-klima-11802651041</link>
+      <title>Ayatollahens død, Peptalk til Troels og et forsømt klima</title>
+      <description>Irans øverste leder, ayatollah Ali Khamenei, er blevet dræbt. Men betyder det, at præstestyrets tid er forbi?
+Mens flere blå partier understreger, at de foretrækker Troels Lund Poulsen som statsminister, har Venstre tabt pusten i meningsmålingerne. Så hvordan kan Venstre og Troels Lund Poulsen komme til at ligne - og blive - en vinder? 
+Kort tid før, at Mette Frederiksen torsdag udskrev valg, dumpede Klimarådet de danske 2030-klimamål. Det er ret sigende, for klima fylder mindre end mindre - både herhjemme og internationalt - og også i de politiske udspil og den valgkamp, der nu er i fuld gang. 
+Værter: Amalie Schroll Munk og Adrian Busk.
+Medvirkende: 
+David Vestenskov, chefkonsulent, Forsvarsakademiet.
+Jens Paaske, formand, Venstre Ungdom.
+Joachim Peter Tilsted, forsker i klima og energiomstilling, Københavns Universitet.</description>
+      <pubDate>Mon, 02 Mar 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:36</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651041/025911a0c7cf834a61e0b8cb9786bd0d61fdb68ad6f56f0066cdc073220bb2eb.mp3" type="audio/mpeg" length="26787913" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651040</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/partiernes-valg-en-britisk-bombe-og-farvel-til-en-maerkelig-regering-11802651040</link>
+      <title>Partiernes valg, en britisk bombe og farvel til en mærkelig regering</title>
+      <description>Mette Frederiksen har udskrevet folketingsvalg til afholdelse den 24. marts. Valget markerer enden på det, der er blevet kaldt 'en mærkelig regering'. Så hvordan lyder SVM-regeringens nekrolog? 
+Folketingsvalget blev torsdag skudt i gang med en partilederdebat, hvilke hints gav den om mulige regeringssamarbejder efter valget? 
+Den tidligere prins Andrew er endnu engang i centrum for en skandale, men har den denne gang ligefrem potentiale til at hive vigtige dele af det britiske kongehus med sig ned? 
+Vært: Adrian Busk.
+Medvirkende: 
+Lars Trier Mogensen, politisk kommentator, Dagbladet Information, vært, P1.
+Jakob Steen Olsen, kulturkommentator, Berlingske.</description>
+      <pubDate>Fri, 27 Feb 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:37</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651040/4cfa24c0d79cf3f65690a0aea8047952298e4729353f26cd1425706a8874e123.mp3" type="audio/mpeg" length="26827653" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651039</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/clintons-paa-grillen-venner-i-venezuela-og-louvres-forfald-11802651039</link>
+      <title>Clintons på grillen, venner i Venezuela og Louvres forfald</title>
+      <description>Hillary og Bill Clinton skal nu afhøres i Kongressen om Epstein-dokumenterne. Spørgsmålet er, om det er godt eller dårligt nyt for republikanerne.
+Donald Trump omtaler pludselig Venezuela som USA's ven, men hvad er der egentlig sket, siden amerikanerne kidnappede landets præsident?
+Verdens største kunstmuseum, Louvre i Paris, har været ramt af den ene skandale efter den anden. Kan den nye direktør rette op på skaderne?
+Vært: Amalie Schroll Munk.
+Medvirkende: 
+Karin Mørch, journalist på DR's udlandsredaktion.
+David Trads, forfatter, journalist og tidligere USA-korrespondent.</description>
+      <pubDate>Thu, 26 Feb 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:33</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651039/5fa1bbdc403af53b48cbe68577cde0795afdbcc8dc81c8398e30b7b2a47feb2d.mp3" type="audio/mpeg" length="25295495" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651038</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/kartellernes-haevn-sikandars-suppedas-og-en-sidste-aftale-11802651038</link>
+      <title>Kartellernes hævn, Sikandars suppedas og en sidste aftale?</title>
+      <description>Regeringen har fremlagt en plan for landets økonomi frem mod 2035. Bliver det den sidste store aftale, SVM-regeringen præsenterer før et valg?
+Der er sat foreløbigt punktum i Sikandar Sidiques meget omtalte boligsag. Men hvad er op og ned?
+I Mexico har drabet på en berygtet narkoboss udløst en bølge af vold og kaos. Hvad er det for et signal, kartellerne vil sende?
+Vært: Adrian Busk.
+Medvirkende:
+Christine Cordsen, politisk korrespondent, DR.
+Lasse Engelbrecht, journalist på DRs udlandsredaktion.</description>
+      <pubDate>Wed, 25 Feb 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:18</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651038/f44e7791916cdc9a2de391e07e16e5d7d1a192f7a2c2ae8267461fd9903e147a.mp3" type="audio/mpeg" length="23483399" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651037</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/ukraines-skaebne-norges-tiltraengte-triumf-og-trumps-tale-11802651037</link>
+      <title>Ukraines skæbne, Norges tiltrængte triumf og Trumps tale</title>
+      <description>Mens krigen i Ukraine går ind i det femte år, hænger den nødvendige økonomiske støtte fra EU i en tynd tråd. Hvor store konsekvenser kan det få?
+Efter en tid hvor den ene norske forbindelse til Epstein-filerne efter den anden har trukket overskrifter, satte de norske atleter medaljerekord ved dette års vinter-OL. Har det fået den nationale stolthed til at vende tilbage? 
+Donald Trump holder natten til onsdag sin tale til nationen. Talen kommer på et tidspunkt, hvor han er historisk upopulær og efter et massivt told-nederlag i landets højesteret. Hvad betyder for talen? 
+Vært: Amalie Schroll Munk.
+Medvirkende: 
+Lykke Friis, direktør, Tænketanken Europa.
+Anders Agner, chefredaktør, Kongressen.com.</description>
+      <pubDate>Tue, 24 Feb 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:21</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651037/3053164b12222678776f0c0ff0e2de25730a0dd78967f1dee1ef0c9ab20d0821.mp3" type="audio/mpeg" length="25001740" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651036</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/et-klasse-samfund-kvinder-i-sten-og-kool-kina-11802651036</link>
+      <title>Et klasse samfund, kvinder i sten og Kool Kina</title>
+      <description>Det kan bedre betale sig at købe og sælge bolig end at arbejde hårdt i Danmark. På den måde har boligmarkedet både forandret og skabt ulighed i Danmark, men er det et problem? 
+Der er få vejnavne og pladser, der er opkaldt efter kvinder. Statuer er der også få kvindelige af. Men det kan et nyt opslagsværk måske ændre på. 
+Kinesisk kultur og livsstil hitter på de sociale medier, samtidig laver vestlige ledere handelsaftaler med landets, så hvordan blev Kina så cool? 
+Værter: Adrian Busk og Amalie Schroll Munk.
+Medvirkende: 
+Rune Møller Stahl, politisk økonom og senioranalytiker, Oxfam Danmark.
+Alexander Sjöberg, korrespondent i Asien, Berlingske.</description>
+      <pubDate>Mon, 23 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:46</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651036/1cc6363e9d7010d9c19bd65e4c1ce86f2e36a0bbeef33907840be08ccddd0206.mp3" type="audio/mpeg" length="24147531" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651035</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/royal-anholdelse-opsyn-med-soevn-og-angriber-usa-iran-11802651035</link>
+      <title>Royal anholdelse, opsyn med søvn og angriber USA Iran?</title>
+      <description>Rettelse: I programmet siger vi fejlagtigt, at Andrew Mountbatten-Windsor er sigtet. På nuværende tidspunkt er der ikke en officiel sigtelse mod ham. Men han er fortsat mistænkt i sagen. 
+Anonyme kilder fortæller til amerikanske medier, at USA er klar til at angribe inde i Iran inden for få dage, men hvorfor skulle USA angribe netop nu?  
+Den tidligere prins Andrew er højst usædvanligt blevet anholdt. Han er mistænkt for embedsmisbrug. 
+Forbrugerrådet Tænk kritiserer nu markedsføringen af flere søvnmåler-gadgets, herunder Oura-ringen. Men hvorfor er det i det hele taget blevet så populært at holde øje med sin søvn? 
+Vært: Amalie Schroll Munk.
+Medvirkende: 
+Jacob Kaarsbo, sikkerhedspolitisk rådgiver, tidl. chefanalytiker, FE.
+Anna Mathiesen, læge, står bag meme-profilen Fantastiske Forældre.</description>
+      <pubDate>Fri, 20 Feb 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:14</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651035/ec6894cad2644bb2877f7c13bfe8545507fd10f3e7b8417252319a0d2731a9f6.mp3" type="audio/mpeg" length="23394118" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651034</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/iransk-haab-trumps-fredsraad-og-maends-alder-11802651034</link>
+      <title>Iransk håb, Trumps fredsråd og mænds alder</title>
+      <description>De store protester, der brød ud i slutningen af december, lignede i øjeblikke en begyndende revolution i Iran. Men er det endnu engang lykkedes præstestyret at kvæle den? 
+Verdenshistoriens mest prestigefyldte bestyrelse - sådan kalder Trump i hvert fald sit nye fredsråd - mødes for første gang i dag for at tale om fremtiden for Gaza.
+Mænd lever nu for første gang i gennemsnit over 80 år herhjemme. Det er en god nyhed, men under den gemmer sig også en historie om ulighed i sundhed. 
+Værter: Amalie Schroll Munk og Adrian Busk.
+Medvirkende: 
+Mozhdeh Ghasemiyani, dansk-iraner, selvstændig psykolog.
+Svend Aage Madsen, psykolog og forskningsleder, Rigshospitalet, faglig ekspert i Forum for Mænds Sundhed.</description>
+      <pubDate>Thu, 19 Feb 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:19</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651034/70e93c906f55a140945d123f52b5253a859fa2f3c5d3f26806c239fa4e5a4907.mp3" type="audio/mpeg" length="24941258" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651033</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/en-konge-tur-en-betaendt-boligskat-og-p-plads-til-usynlige-handicaps-11802651033</link>
+      <title>En KONGE tur, en betændt boligskat og p-plads til usynlige handicaps</title>
+      <description>Kong Frederik besøger de næste dage Grønland. Hvad kommer kongen med, som politikere og oprustning ikke kan? 
+Boligskat er et betændt politisk emne, som har fyldt meget i flere valgkampe, og nu tyder meget på, at det også kunne blive tilfældet ved den valgkamp, der allerede så småt er i gang. 
+Det har vakt undren, at der er sket en markant stigning i antallet af udstedte handicapparkeringskort. En forklaring lyder, at flere med psykiske lidelser får dem, for har de virkelig brug for det? 
+Vært: Adrian Busk.
+Medvirkende:
+Thomas Larsen, kongehusekspert, DR. 
+Kurt Holm Nielsen, generalsekretær, Angst -og stressforeningen.</description>
+      <pubDate>Wed, 18 Feb 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:41</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651033/fde022ce7793e56d829c2c5dd385c79010af072012a7e89838aed5ba99838d5d.mp3" type="audio/mpeg" length="22596362" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651032</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/kriminalitet-paa-bestilling-curlingfingeren-og-influencere-i-favelaen-11802651032</link>
+      <title>Kriminalitet på bestilling, curlingfingeren og influencere i favelaen</title>
+      <description>Socialdemokratiet vil øge straffen for at hyre andre til at begå kriminalitet. Et fænomen der særligt de senere år er taget til herhjemme, og som i høj grad kommer fra Sverige. Så hvad gør de i Sverige for at stoppe det? 
+Der har fundet et curlingdrama sted ved dette års vinter-OL. Fredag blev den canadiske kaptajn for herrelandsholdet rasende over en beskyldning om snyd, og det har sat et aftryk på en sport, der ellers bygger på ro og tillid mellem spillerne. 
+DRs korrespondent har tilbragt en uge i Rios farligste favela, og her har han mødt influencere, der fortæller om deres ikke særligt instavenlige liv til tusindvis af følgere. 
+Vært: Adrian Busk. 
+Medvirkende: 
+Johan Varning Bendtsen, nordisk korrespondent, Kristeligt Dagblad.
+Kristian Almblad, korrespondent, Sydamerika, DR.</description>
+      <pubDate>Tue, 17 Feb 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:32</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651032/e9717aa7a800c29763c41e10ba865912285a47a0331f9c770fc25ebfb2bc6463.mp3" type="audio/mpeg" length="25256335" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651031</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/trumps-groenne-opgoer-groenlands-varme-vinter-og-et-fransk-fertilitetstjek-11802651031</link>
+      <title>Trumps grønne opgør, Grønlands varme vinter og et fransk fertilitetstjek</title>
+      <description>Donald Trump har underkendt den forskning, der i næsten to årtier har begrænset udledning af bestemte typer drivhusgasser i USA. Hvor fundamentalt et skridt er det væk fra den grønne omstilling? 
+Mens snestorm efter snestorm raser herhjemme, er det rekordvarm vinter i Grønland, og det er tydeligt på en skibakke i Nuuk.
+I Frankrig vil politikerne sende et brev til 29-årige og minde dem om deres frugtbarhed. Det er langtfra det eneste forsøg på at få fødselsraterne op fra vestlige regeringer, men virker det? 
+Vært: Amalie Schroll Munk.
+Medvirkende: 
+Christian Ibsen, direktør, den grønne tænketank CONCITO.
+Cecilia Ramlau-Hansen, professor, institut for folkesundhed, Aarhus Universitet.</description>
+      <pubDate>Mon, 16 Feb 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:35</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651031/150a32b2ca2a0c6a96b81761534ca11582106732aa633fa7c515ca882427c080.mp3" type="audio/mpeg" length="22452363" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651030</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/gordons-droem-verdens-nedbrud-og-munkenes-haab-11802651030</link>
+      <title>Gordons drøm, verdens nedbrud og munkenes håb</title>
+      <description>Gordon Kennedy forsøger år efter år at få en sang med i det danske Melodi Grand Prix, og drømmen lever faktisk stadig. Hvad er det ved sangkonkurrencen, der har tryllebundet ham, siden han var barn? 
+En verden i nedbrud er overskriften på den årlige sikkerhedskonference, der de næste dage afholdes i München. Men kan det der lykkedes de europæiske ledere at samle stumperne? 
+En gruppe munke har i over 100 dage forsøgt at gå sig til fred op gennem USA, men har deres vandring rykket ved noget som helst? 
+Værter: Amalie Schroll Munk og Adrian Busk. 
+Medvirkende: 
+Steen Nørskov, korrespondent i Tyskland, DR.
+Gordon Kennedy, skuespiller og Melodi Grand Prix-entusiast.</description>
+      <pubDate>Fri, 13 Feb 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:42</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651030/a4c77d50373d78074cd9167f62dd2cf031981d3ca24273390ed6e942ab77a4b8.mp3" type="audio/mpeg" length="24067467" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651029</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/maga-uden-trump-drikkevand-uden-gift-og-hot-hockey-11802651029</link>
+      <title>MAGA uden Trump, drikkevand uden gift og hot hockey?</title>
+      <description>Opbakningen til MAGA-bevægelsen ser ud til at være større end nogensinde blandt de republikanske vælgere. Samtidig er præsident Trump upopulær, så kan MAGA leve videre uden ham? 
+Miljøministeren vil have grænseværdien for nitrat i drikkevandet sat markant ned, men det bliver dyrt. Mens ishockeylandsholdene kæmper til vinter-OL, så danner ishockey også rammen om en sexet kærlighedsaffære i en populær serie. Har det gjort ishockey særligt hot?
+Værter: Adrian Busk og Amalie Schroll Munk.
+Medvirkende: 
+Jacob Heinel Jensen, USA-korrespondent, Berlingske.
+Anne Sofie Allarp, hockey-fan og journalist, Weekendavisen.</description>
+      <pubDate>Thu, 12 Feb 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:27</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651029/883278d8c79a2736f4e733cab17e41c020e1540cd9ad985138cd1410168e4c94.mp3" type="audio/mpeg" length="23695374" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651028</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/trumps-kryptosats-vi-skygger-flaaden-og-tostatsloesningens-endeligt-11802651028</link>
+      <title>Trumps kryptosats, vi skygger flåden og tostatsløsningens endeligt?</title>
+      <description>Den israelske regering har taget nye skridt mod at udvide ulovlige bosættelser på Vestbredden. Det møder stor kritik, og er det også dødsstødet til en tostatsløsning? 
+292 gange har søfartsstyrelsen registreret et skib fra den russiske skyggeflåde i dansk farvand sidste år. Hvad kan de tal gøre os klogere på? 
+USAs præsident satser i høj grad på, at teknologi - kunstig intelligens og kryptovaluta -  er vejen til økonomisk succes. Men lige nu falder flere af aktierne i værdi, så hvilke konsekvenser kan det få for Trump - og for verdensøkonomien? 
+Vært: Adrian Busk.
+Medvirkende: 
+Nanna Muus Steffensen, Mellemøstkorrespondent, DR.
+Ulrik Bie, økonomisk redaktør, Berlingske.</description>
+      <pubDate>Wed, 11 Feb 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:52</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651028/8e782d73142462045a67c86991835e84599e7a53a5f2f81a6a9a1de4884c366b.mp3" type="audio/mpeg" length="24295566" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651027</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/starmers-skandale-den-falske-mona-juul-og-takaichis-taske-11802651027</link>
+      <title>Starmers skandale, den falske Mona Juul og Takaichis taske</title>
+      <description>I Storbritannien har Epstein-filerne skabt store problemer for premierminister Keir Starmer. Flere topfolk omkring ham er derfor trådt tilbage, så hvorfor hænger Starmer stadig i en tynd tråd? 
+Der er Mona Juul, som er dansk partiformand, og så er der Mona Juul, som er - nu tidligere - ambassadør for Norge i Jordan. I flere internationale medier er de to blevet forvekslet den seneste uge. 
+Den japanske premierminister, Sanae Takaichi, er historisk populær. Det blev understreget ved et valg i weekenden, men hvad gør hendes politiske projekt og hendes person så vellidt blandt japanerne?  
+Vært: Adrian Busk.
+Medvirkende:
+Morten Rønnelund, Storbritannien-kommentator.
+Philip Róin, Asien-korrespondent, DR.</description>
+      <pubDate>Tue, 10 Feb 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:46</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651027/5850d64c1e27b051d4ee1e5c70b4d00963892ea2bf98c2612f53c1e9d086a0a9.mp3" type="audio/mpeg" length="24164808" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651026</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/cpr-misbrug-en-delulu-sprogpolitik-og-usas-kill-switch-11802651026</link>
+      <title>CPR-misbrug, en delulu sprogpolitik og USAs kill switch</title>
+      <description>En tidligere studentermedhjælper i Københavns Kommune er i dag på anklagebænken, anklaget for at videregive oplysninger fra CPR-registeret til kriminelle.
+Med en ny sprogpakke vil et politisk flertal sikre, at det danske sprog ikke syner hen. Men hvad mener kulturministeren egentlig, at han kan stille op?
+Det seneste år har der indfundet sig en europæisk frygt for vores afhængighed af amerikansk teknologi. Hvor svært er det egentlig at slippe af med?
+Værter: Amalie Schroll Munk og Adrian Busk.
+Medvirkende:
+Louise Dalsgaard, retsanalytiker, DR.
+Jakob Engel-Schmidt, kulturminister (M).
+Asta Kongsted, journalist, Zetland.</description>
+      <pubDate>Mon, 09 Feb 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:04</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651026/b46d159527fcc17661b1e15e1a466f371c733d98de816dedd8342d00b62e0734.mp3" type="audio/mpeg" length="26024712" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651025</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/kulden-i-kyiv-medaljehaab-paa-is-og-data-i-rummet-11802651025</link>
+      <title>Kulden i Kyiv, medaljehåb på is og data i rummet</title>
+      <description>Det er bidende koldt i Ukraine, og samtidig angriber Rusland igen og igen landets energiinfrastruktur. 
+Vinter OL er ikke traditionelt en begivenhed, Danmark satser på at få de store danske sejre ved, men er der alligevel grund til at tro på en medalje eller to ved dette års olympiske lege? 
+Elon Musk har i årtier villet indtage rummet, og nu planlægger han også at bygge datacentre derude. Hvad fortæller det om hans ambitioner i rummet?
+Vært: Adrian Busk.
+Medvirkende: 
+Matilde Kimer, korrespondent, Ukraine og Rusland, DR.
+Henrik Liniger, kommentator, DR Sporten.
+Ole Hall, journalist, P1, forfatter til flere bøger om Elon Musk.</description>
+      <pubDate>Fri, 06 Feb 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:10</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651025/6823fa1bd76ead22290ea6bb3490e1206e9aaf3cedd65bb5c131da27b8752c2e.mp3" type="audio/mpeg" length="23289863" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651024</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/marius-miljoe-valg-i-sigte-og-novos-nedtur-11802651024</link>
+      <title>Marius' miljø, valg i sigte og Novos nedtur</title>
+      <description>Det er et miljø med druk, stoffer og sex, der bliver skildret, da den norske kronprinsesses søn Marius Borg Høiby vidner i straffesagen mod ham. 
+Novos aktiefald er historisk og brutalt. Men spørger man virksomhedens topchef, så er Novo Nordisk ikke i krise. 
+Socialdemokratiet har præsenteret et folkeskoleudspil, og det ses som partiets oplæg til et valg. Men hvad får de ud af at satse på folkeskolen? 
+Vært: Adrian Busk.
+Medvirkende: 
+Joakim Reigstad, journalist og nordisk korrespondent på NRK.
+Lars Trier Mogensen, journalist og kommentator, Dagbladet Information og P1.</description>
+      <pubDate>Thu, 05 Feb 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:22</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651024/d67f572557d8ba2e5b597a0d92508daac131e13706c51195a90b41bc39cdd948.mp3" type="audio/mpeg" length="23588808" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651023</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/filerne-vi-ikke-ser-en-saerlig-terrordom-og-cementfabrikkens-co2-11802651023</link>
+      <title>Filerne vi ikke ser, en særlig terrordom og cementfabrikkens CO2</title>
+      <description>Der er tusindvis af videoer, billeder og e-mails frem fra de såkaldte Epstein-filer, men der er stadig mange, vi ikke har set. Hvad betyder det for fortællingen om Epstein, og dem der nævnes i dokumenterne? 
+To unge svenskere blev tirsdag dømt for at begå terror i Danmark. Med det blev der skrevet retshistorie, for bagmændenes motiv skiller sig ud fra andre terrorsager. 
+Cementfabrikken Aalborg Portland har som de første lovet at fange og lagre noget af den CO2, de udleder. Kan de med det vise vejen for andre?
+Vært: Adrian Busk.
+Medvirkende:
+Filip Knaack Kirkegaard, klimaanalytiker, DR.
+Ruben Toft Sindahl, juridisk analytiker, Kongressen.com.</description>
+      <pubDate>Wed, 04 Feb 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:35</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651023/58f7a9092cda0cbc28741b706fa0ba5e91f6fea4d64078af30ace274656cc4fc.mp3" type="audio/mpeg" length="22457541" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651022</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/adgang-til-gaza-kronprinsessens-e-mails-og-cuba-uden-olie-11802651022</link>
+      <title>Adgang til Gaza, kronprinsessens e-mails og Cuba uden olie</title>
+      <description>Grænseovergangen mellem Gaza og Egypten bliver genåbnet. Det sker som led i den plan, der skal sikre varig fred i Gaza, men der er stadig store stridspunkter i vente. 
+Epstein-filerne har ramt det i forvejen udfordrede norske kongehus. Heri findes nemlig beskedudvekslinger mellem den dømte sexforbryder og landets kronprinsesse. 
+Den amerikanske regering forsøger at presse styret i Cuba ved at afskære østaten fra adgangen til olie. Spørgsmålet er, om det presser diktatoren eller befolkningen mest?
+Vært: Adrian Busk.
+Medvirkende: 
+Nanna Muus Steffensen, Mellemøstkorrespondent, DR.
+Lasse Yde Hegnet, antropolog og journalist med særligt kendskab til Latinamerika.</description>
+      <pubDate>Tue, 03 Feb 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:32</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651022/b61b2d7a42a2c98a27fca074f2f949308ac5a01ce18a692c27d23010ab1eef3e.mp3" type="audio/mpeg" length="23814600" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651021</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/udvisning-paa-proeve-aed-lort-og-reklamer-i-chat-11802651021</link>
+      <title>Udvisning på prøve, æd lort og reklamer i chat</title>
+      <description>Regeringen vil trykteste de konventioner, der i nogle tilfælde forhindrer udvisning af kriminelle udlændinge.
+Der er mangel på lort. Afføring i tabletform kan nemlig potentielt kurere en lang række sygdomme.
+Direktøren i virksomheden, der står bag ChatGPT kan ikke lide reklamer. Slet ikke når det kombineres med kunstig intelligens. Men nu er reklamerne alligevel på vej til chatten.
+Vært: Amalie Schroll Munk.
+Medvirkende: 
+Eva Smith, juraprofessor emerita, Københavns Universitet.
+Therese Moreau, journalist og lederskribent, Ingeniøren.</description>
+      <pubDate>Mon, 02 Feb 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:40</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651021/7f721a667ad374db02e0fcfdf5d43a4309d13d1ca5ea59828a5b6d7c2c6f2ca7.mp3" type="audio/mpeg" length="25443535" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651020</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/kriseeffekten-vrede-veteraner-og-foerstedamens-film-11802651020</link>
+      <title>Kriseeffekten, vrede veteraner og førstedamens film</title>
+      <description>Både Socialdemokratiet og Moderaterne har markant fremgang i en helt ny meningsmåling. Hvad forklarer den stigende opbakning til de to regeringspartier?
+Danske veteraner mødes lørdag til protestmarch. Protest over den amerikanske præsident Trumps kritik af soldaternes indsats i Afghanistan. 
+Melania Trump er hovedpersonen i dokumentaren MELANIA, og hun har selv været i fuld kontrol over indholdet i den. Så hvad er førstedamens plan med dokumentaren?
+Vært: Amalie Schroll Munk.
+Medvirkende: 
+Jens Ringberg, politisk analytiker, DR.
+Kirstine Biltoft-Knudsen, forfatter og udlandsredaktør, DR.</description>
+      <pubDate>Fri, 30 Jan 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:48</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651020/d7e40f548c2b2bfb276948e9ab23a62a8c97ae4ea303989b712386a9948f1855.mp3" type="audio/mpeg" length="25634187" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651019</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/en-haand-til-iran-mindre-moms-og-en-uopsigelig-aftale-11802651019</link>
+      <title>En hånd til Iran, mindre moms og en uopsigelig aftale</title>
+      <description>Trump har lovet at komme de demonstranter i Iran til undsætning, og flere og flere iranere ser et amerikansk angreb som nødvendigt i kampen mod det brutale præstestyre.
+Momsen på fødevarer bliver sænket med 6 milliarder i 2028, men hvad betyder det for pengepungen? 
+I årene under og efter anden verdenskrig indgår Danmark og USA en uopsigelig aftale om Grønland. Den aftale er stadig definerende for forhandlinger om Grønland i dag. 
+Vært: Adrian Busk. 
+Medvirkende: 
+Salar Saroneh, forperson, Voice of Iran.
+Ann Lehmann Erichsen, forbrugerøkonom, AL Sydbank. 
+Bo Lidegaard, historiker og forfatter.</description>
+      <pubDate>Thu, 29 Jan 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:46</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651019/14d97e5f09f423786f5bb71f7cf61b3e7f67dfc80f92d3c1cbda14485288b03e.mp3" type="audio/mpeg" length="24155596" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651018</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/alle-aftalers-moder-penge-til-mad-og-en-vandvittig-ide-11802651018</link>
+      <title>Alle aftalers moder, penge til mad og en vandvittig idé</title>
+      <description>"The mother of all deals", kalder kommissionsformanden den handelsaftale, EU netop har indgået med verdens folkerigeste land. Hvordan blev Indien klar til at handle? 
+Et politisk flertal er blevet enige om at give en fødevarecheck til to millioner danskere. Men hvem får den og hvorfor? 
+Det var Trumps gamle skolekammerat, forretningsmanden Ronald Lauder, der i første omgang fik præsidentens tanker ledt hen på Grønland. Men ikke på grund af sikkerhed - på grund af vand.  
+Vært: Adrian Busk.
+Medvirkende: 
+Kunal Singla, stifter af COBO Consult, tidligere chef, Dansk Industri i Indien.
+Mathias Mencke, undersøgende journalist, Zetland.</description>
+      <pubDate>Wed, 28 Jan 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:10</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651018/f28189ec18ef2672b10caa6e9ad2a2b8b5570edaa18a2458850e907b509a58a6.mp3" type="audio/mpeg" length="24740804" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651017</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/hvem-var-alex-pretti-wind-wind-situation-og-syg-snapstreak-11802651017</link>
+      <title>Hvem var Alex Pretti? wind wind situation og syg snapstreak</title>
+      <description>Historien om sygeplejersken Alex Pretti, som i weekenden blev dræbt i Minneapolis, er lige nu i skarp konkurrence med en fortælling om nødvendigheden af at slå hårdt ned på kriminalitet i USAs storbyer. 
+Mens Trump kalder vindmøller for tabere, laver flere europæiske lande aftaler om enorme vindmølleprojekter. 
+Virksomheden bag Snapchat indgik for nylig et forlig i en sag, hvor det populære sociale medie stod anklaget for at være designet til afhængighed. 
+Værter: Adrian Busk og Amalie Schroll Munk.
+Medvirkende: 
+Lasse Engelbrecht, journalist, DRs udlandsredaktion.
+Christiane Vejlø, digital trendanalytiker, Elektronista Media.</description>
+      <pubDate>Tue, 27 Jan 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:57</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651017/bd7deafc10ad859df06ae7a0fed6c7f91529304393a0312b24857eb8fe6535e7.mp3" type="audio/mpeg" length="24425163" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651016</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/forhandlinger-om-fred-canadas-verden-og-fortiden-er-gaaet-viralt-11802651016</link>
+      <title>Forhandlinger om fred, Canadas verden og fortiden er gået viralt</title>
+      <description>I weekenden mødtes repræsentanter fra Rusland og Ukraine med USA for at forhandle om fred i Ukraine. 
+"Nostalgi er ikke en strategi," lyder det fra Canadas premierminister, som har vendt sig væk fra USA og mod Kina. Er Canada lige nu billedet på en verdensorden i forandring? 
+På sociale medier er nostalgien og fortiden gået viralt. Hvorfor mindes alle 2016 lige nu? 
+Vært: Amalie Schroll Munk. 
+Medvirkende: 
+Birgitte Borup, international kommentator, Berlingske.
+Chris Pedersen, kulturjournalist og vært på podcasten Popsmart, DR.</description>
+      <pubDate>Mon, 26 Jan 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:58</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651016/45746d2b7b391c5739b151dacd42177f84f31130dcd9a4f97f05833ad22e7d43.mp3" type="audio/mpeg" length="24448200" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651015</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/ruttes-rolle-trumps-fredsraad-og-ice-agenternes-uniform-11802651015</link>
+      <title>Ruttes rolle, Trumps fredsråd og ICE-agenternes uniform</title>
+      <description>Mark Rutte fik Trump til at aflyse toldtruslerne, hvilken rolle spiller Natos generalsekretær egentlig i verden lige nu?  
+Donald Trump har stiftet et fredsråd, som består af en række kontroversielle toppolitikere. Hvad er meningen med det? 
+ICE får stor kritik for deres hårdhændede anholdelser og drab på uskyldige amerikanere. Men de beskyldes også for at sende fascistiske signaler. 
+Vært: Amalie Schroll Munk.
+Medvirkende:
+Michael Zilmer-Johns, mangeårig topdiplomat og tidligere dansk Nato-ambassadør.
+Mathias Sindberg, journalist, Informations udlandsredaktion.</description>
+      <pubDate>Fri, 23 Jan 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:05</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651015/3dbbc6d64dfb7288d812247454e4617a6c9db2dbfd8e2ca752da4d0335a6acce.mp3" type="audio/mpeg" length="26052936" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651014</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/militaerteater-supermagt-med-harpiks-og-skaebnestund-i-syrien-11802651014</link>
+      <title>Militærteater, supermagt med harpiks og skæbnestund i Syrien</title>
+      <description>En dansk fregat slutter sig nu til den oprustning, der er i fuld gang i og omkring Grønland. Hvad er egentlig planen? 
+Kan håndboldherrerne fungere som et lys i en ellers urolig og uforudsigelig tid?
+Syriens leder kæmper for at samle landet, og lige nu foregår kampene i den nordøstlige del af landet. Hvad er det, der er på spil for Al-Sharaa og Syrien? 
+Vært: Adrian Busk.
+Medvirkende: 
+Mads Korsager, forsvarskorrespondent, DR.
+Malte Tellerup, forfatter og håndboldekspert.
+Puk Damsgård, Mellemøstkorrespondent, DR.</description>
+      <pubDate>Thu, 22 Jan 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:17</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651014/7935297d72a71cfed800a91f9d342499ec6cdf6d959b7353f03baac8ce747525.mp3" type="audio/mpeg" length="26331142" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651013</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/udfordret-union-en-kirke-i-alperne-og-ai-boellebilleder-11802651013</link>
+      <title>Udfordret union, en kirke i Alperne og AI-bøllebilleder</title>
+      <description>Det er tid til at opbygge et uafhængigt Europa, for Trump har overtrådt Europas grænse, men kan det lykkedes EU at stå sammen mod Trump? 
+En kirke i Alperne danner i de her dage rammen om USAs dagsorden ved World Economic Forum. 
+De sociale medier er fyldt med AI-generede billeder, der udstiller USAs politiske planer. For eksempel planen om at overtage Grønland. Hvilket politisk værktøj er det?
+Vært: Adrian Busk.
+Medvirkende: 
+Lykke Friis, direktør, Tænketanken Europa.
+Ulrik Rosenkvist, vært, 'Sorte tal', P1.
+Morten Reimar, rådgiver i kommunikation og public affairs.</description>
+      <pubDate>Wed, 21 Jan 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:40</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651013/db32454fa2d5b9169ae88038358fb6beede8024253167b0552ba8e2f4508b406.mp3" type="audio/mpeg" length="22572743" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651012</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/handelskrig-trumps-yndlingsord-og-sang-uden-sanger-11802651012</link>
+      <title>Handelskrig, Trumps yndlingsord og sang uden sanger</title>
+      <description>Donald Trump vil indføre straftold på en række europæiske lande, hvis ikke Grønland bliver hans. Men hvor rustede er vi til en handelskrig? 
+Mens Trump truer Europa med mere told, er USAs højesteret ved at finde ud af, om han kan blive ved med at føre politik med straftold som våben. 
+I Sverige er det kunstig intelligens, der synger det allermest lyttede musiknummer lige nu. Hvad betyder det for vores forhold til musik? 
+Vært: Adrian Busk.
+Medvirkende: 
+Jakob Ussing, erhvervskorrespondent, DR.
+Anders Reuter, lektor, Afdeling for Musikvidenskab og Intermedia studier, Lund Universitet.</description>
+      <pubDate>Tue, 20 Jan 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651012/858a2017eecd7ba43728339eeffcbe8c59b8e9eb2dfe218128ab52782c6741e9.mp3" type="audio/mpeg" length="23039306" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651011</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/internet-i-moerket-fredskysset-og-er-du-doed-11802651011</link>
+      <title>Internet i mørket, fredskysset og er du død?</title>
+      <description>Starlink sikrer internet, når regimer eller krige lukker adgangen til resten af verden. Hvilken magt giver det Elon Musk? 
+Ligesom Donald Trump er Henry Kissinger blandt de amerikanske toppolitikere, som har mere eller mindre omstridte forbindelser til Nobels Fredspris. 
+Er du død? Sådan tjekker kinesere op på hinanden med en populær app, fordi rekordmange bor alene i det store land.  
+Vært: Amalie Schroll Munk.
+Medvirkende: 
+Andreas Graae, Adjunkt og forskningsleder, Institut for Militær Teknologi, FAK.
+Philip Roin, DRs Asienkorrespondent.</description>
+      <pubDate>Mon, 19 Jan 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:35</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651011/06ec73e7e17daa041049d0ede6f970a4dda9c20eb43a3647f8897da2364b2187.mp3" type="audio/mpeg" length="22457542" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651010</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/besoeg-fra-amerika-billigere-boeffer-og-aanden-i-daasen-11802651010</link>
+      <title>Besøg fra Amerika, billigere bøffer og ånden i dåsen</title>
+      <description>Lisa Murkowski er republikansk senator, og så er hun et billede på en modstand mod Trump i det republikanske parti.
+En aftale om frihandel mellem EU og Sydamerikanske lande har været årtier undervejs. Nu er den faldet på plads, men vil det ramme regnskoven?
+Tiden begræd tidligere på ugen, at flaskeøllen er på retur. Men hvordan lyder forsvaret for dåseøllen?
+Værter: Amalie Schroll Munk og Adrian Busk.
+Medvirkende: 
+Jakob Terp-Hansen, chefredaktør, USAPol.dk.  
+Philip Hulgaard, stifter, bryggeriet Åben.
+Filip Knaack Kirkegaard, klimaanalytiker, DR.</description>
+      <pubDate>Fri, 16 Jan 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:44</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651010/3d6adfebad5078da01ccc0b264b0abf8a3a2f9406de121fd4424f62ad2233914.mp3" type="audio/mpeg" length="24107211" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651009</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/groenland-paa-spil-isoleret-isolering-og-presset-powell-11802651009</link>
+      <title>Grønland på spil, isoleret isolering og presset Powell</title>
+      <description>Lars Løkke Rasmussen og Vivian Motzfeldt mødtes onsdag med Trumps folk i Washington DC. Hvad kom der ud af mødet? 
+Putin har overtaget kontrollen med Rockwools fabrikker i Rusland. 
+Den amerikanske centralbankdirektør nægter at lade sig presse af præsidenten. Hvorfor står han så stejlt imod Trump? 
+Vært: Adrian Busk.
+Medvirkende: 
+Rasmus Sinding Søndergaard, Seniorforsker, DIIS.
+Frank Hvid Petersen, analytiker for Politiken og finansiel rådgiver.</description>
+      <pubDate>Thu, 15 Jan 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:21</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651009/ccbbdc8c41cd8d8f7e5259ae9ceee4beefc3a57428f368ccbe9b2884ee169bf0.mp3" type="audio/mpeg" length="25000013" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651008</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/good-cop-bad-cop-nu-det-nuuk-og-laeger-med-graenser-11802651008</link>
+      <title>Good cop/bad cop, nu det Nuuk og læger med grænser</title>
+      <description>JD Vance og Marco Rubio tager imod den danske og grønlandske udenrigsminister i Det Hvide Hus. Men er det et enigt rigsfællesskab, der møder op?
+'Nu det Nuuk', lyder budskabet på røde anti-Trump-kasketter, som nu er helt udsolgte. 
+Læger uden Grænser kan ende med at forlade Gaza, fordi de ikke vil efterleve krav fra Israel. Men hvad er problemet med de krav? 
+Vært: Adrian Busk.
+Medvirkende:
+Ulrik Pram Gad, seniorforsker, DIIS.
+Julia Raavad, Analysechef i Læger Uden Grænser.</description>
+      <pubDate>Wed, 14 Jan 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:23</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651008/fb55b26c445784e97db6691882d6d6c9f8b05ac0376f7f54f6f8a66ce789da52.mp3" type="audio/mpeg" length="22168390" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651007</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/praestestyrets-oejne-groenlandske-bekymringer-og-bosteder-under-lup-11802651007</link>
+      <title>Præstestyrets øjne, grønlandske bekymringer og bosteder under lup</title>
+      <description>Iranske protester har i de seneste uger vokset sig større og større, men hvem er de iranere, som sætter deres liv på spil i kamp mod styret?
+I Grønland mærker man frygt og bekymring op til onsdagens møde med USA. Et politisk flertal vil stramme reglerne for private bosteder.
+Hvilke problemer har givet grund til det?
+Værter: Adrian Busk og Amalie Schroll Munk.
+Medvirkende: 
+Salar Saroneh, dansk-iraner, forperson, foreningen 'Voice of Iran'.
+Cecilie Kallestrup, DRs journalist i Grønland.
+Laura Friis Wang, journalist, Dagbladet Information.</description>
+      <pubDate>Tue, 13 Jan 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:05</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651007/f760cf31a231df086d6162601b0f544115f26159157493f6ff9fc92d28e7abc1.mp3" type="audio/mpeg" length="23175246" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651006</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/et-maegtigt-moede-maduros-frie-fjender-og-kolde-fra-kassen-11802651006</link>
+      <title>Et mægtigt møde, Maduros frie fjender og kolde fra kassen</title>
+      <description>Danmark og Grønland skal i denne uge efter planen mødes med repræsentanter fra USA. Men hvad er der overhovedet at forhandle om? 
+I Venezuela er flere højtprofilerede politiske fanger nu på fri fod. Har man med det lukket døren endeligt til Maduros Venezuela? 
+Flasken bliver af flere bryggerier valgt fra på grund af pris og energiforbrug. Det er en skam, lyder det. Men hvad mister vi, hvis flaskeøllen forsvinder? 
+Værter: Amalie Schroll Munk og Adrian Busk.
+Medvirkende: 
+Marc Jacobsen, lektor, FAK, Center for Arktiske sikkerhedsstudier,
+Casper Berthelsen, forfatter til en række bøger om øl.</description>
+      <pubDate>Mon, 12 Jan 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:32</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651006/80da6d403263fa701caa3fd574ffd7ab7f1f2740288d802f1fe3155c628b5b00.mp3" type="audio/mpeg" length="22382094" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651005</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/boelgerne-gaar-hoejt-get-the-fuck-out-og-en-fraek-funktion-11802651005</link>
+      <title>Bølgerne går højt, get the fuck out og en fræk funktion</title>
+      <description>Amerikanske soldater gik i denne uge meget overraskende ombord på en olietanker, der sejler under russisk flag. Hvilke konsekvenser kan beslaglæggelsen få for Ruslands skyggeflåde? 
+En kvinde er blevet skudt og dræbt af en ICE-betjent i Minneapolis, og netop der har politidrab før skabt mistillid og oprør. 
+AI-chatbotten Grok kan nu afklæde folk, hvis den går i 'Spicy mode'. Det møder stor kritik. Men hvorfor er det så vigtigt for Elon Musk, at stå fast på funktionen? 
+Værter: Amalie Schroll Munk og Adrian Busk.
+Medvirkende: 
+Jakob Kjøgx Bohr, undersøgende journalist, Danwatch.
+Line Sand, journalist, Zetland.</description>
+      <pubDate>Fri, 09 Jan 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:30</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651005/a08e98625b985ad1a9e84f23ea8c8794585dee2a3ee31460e243d417239a1e7c.mp3" type="audio/mpeg" length="26660044" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651004</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/trumps-trup-lotteri-om-sovepladser-og-vulkangruppen-11802651004</link>
+      <title>Trumps trup, lotteri om sovepladser og Vulkangruppen</title>
+      <description>Trumps folk siger lidt forskellige ting om de amerikanske planer i Grønland. Så hvad kan vi egentlig sige om strategien? 
+For landets hjemløse betyder vinterkulden og frostgrader også kamp om sengepladser. 
+Mange tusinde indbyggere i Berlin har i dagevis manglet strøm, og klimaaktivister fra 'Vulkangruppen' har taget ansvaret for den brand, der var skyld i mørklægningen. 
+Vært: Adrian Busk.
+Medvirkende: 
+Matias Seidelin, forfatter og sikkerhedspolitisk seniorkorrespondent, OLFI.
+"Kasper", hjemløs i København.</description>
+      <pubDate>Thu, 08 Jan 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:19</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651004/a0346865c983b1f474f4aefe923b2b0a15a8c70fc5f0a79857a7b3b486f0768e.mp3" type="audio/mpeg" length="22058955" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651003</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/ild-i-iran-en-klodset-nyhed-og-pop-som-tortur-11802651003</link>
+      <title>Ild i Iran, en klodset nyhed og pop som tortur</title>
+      <description>I Iran protesterer købmænd og studerende mod landets økonomi og ledelse, men truer de præstestyret? 
+Er en intelligent Legoklods enden på analogt legetøj? 
+Hvordan kan tidligere tiders amerikansk indgriben i Latinamerika fortælle os noget om Nicolás Maduros skæbne?   
+Vært: Adrian Busk.
+Medvirkende: 
+Lasse Engelbrecht, journalist, DRs udlandsredaktion.
+Rasmus Elling, lektor, KU, Iran-forsker.</description>
+      <pubDate>Wed, 07 Jan 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:41</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651003/622a52d2b4ace330784a097ce158789d5752e217e7a38de6a7123b944edac101.mp3" type="audio/mpeg" length="22592330" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651002</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/det-sorte-guld-panodiler-til-mor-og-soon-groenland-11802651002</link>
+      <title>Det sorte guld, panodiler til mor og SOON Grønland</title>
+      <description>Olie har i årtier været et stridspunkt mellem USA og Venezuela. Hvorfor er olien nu også central for Trumps angreb i Venezuela? 
+Kvindesygdomme er både tabubelagte og underbelyste. Så hvor fundamentale problemer vil regeringen løse med et nyt forskningscenter? 
+Grønland er endnu engang på Trumps læber. 
+Værter: Adrian Busk og Amalie Schroll Munk.
+Medvirkende: 
+Jakob Ussing, DRs erhvervskorrespondent. 
+Signe Thomsen, journalist, Politiken.</description>
+      <pubDate>Tue, 06 Jan 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651002/1ddb51a835400b397535326a36eed351929b3fe2620c196a98c8a6701a605e81.mp3" type="audio/mpeg" length="23019148" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802651001</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2026/maduros-adios-falsk-dronealarm-og-nytaarskur-11802651001</link>
+      <title>Maduros adiós, falsk dronealarm og nytårskur</title>
+      <description>Venezuelas præsident Nicolás Maduro er blevet anholdt og sigtet for 'narkoterrorisme' i USA. Så hvad skal der nu ske med det latinamerikanske land?
+Amerikanske efterretninger har punkteret anklagen om et ukrainsk droneangreb rettet mod den russiske præsidents bolig. Hvilket gamble laver Putin med sin falske fortælling?
+Januar er for mange lig med slankekure eller forsøg på at ændre kostvaner. Hvorfor er det dét nytårsforsæt flest har? 
+Vært: Amalie Schroll Munk.
+Medvirkende: 
+Kristian Almblad, DRs korrespondent i Sydamerika.
+Mikkel Gudsøe, adjungeret lektor, AU og Ph D-stipendiat i Politiske Forhandlinger, SDU.
+Mette Mølbak, forfatter, madredaktør, Politiken.</description>
+      <pubDate>Mon, 05 Jan 2026 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:36</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802651001/8be97c08b482297ff2df8acc02333cb8c722392cdc28569efd25b61f13855ed9.mp3" type="audio/mpeg" length="26792517" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551221</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/aarets-person-aarets-debat-og-aarets-ord-11802551221</link>
+      <title>Årets person, årets debat og årets ord</title>
+      <description>Hvad siger Rasmus Søndergaard, fødevarepriser og rage bait om året 2025? 
+Det spørger Tiden om i årets sidste udsendelse. Tiden er tilbage igen fra den 5. januar. 
+Værter: Amalie Schroll Munk og Adrian Busk. 
+Medvirkende: 
+Henrik Qvortrup, politisk redaktør, BT, podcastvært, Q&amp;Co.
+Jacob Holst Mouritzen, strategikonsulent, livsstilsekspert, Kender du Typen, DR. 
+Anne Sophia Hermansen, kulturkommentator, Weekendavisen.</description>
+      <pubDate>Tue, 23 Dec 2025 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:20:12</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551221/034eadabe52f91d73f72d0cf4dc65abab14974629843bd4cb56bee808036e9fb.mp3" type="audio/mpeg" length="29108617" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551220</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/en-fattig-jul-is-i-australien-og-julegaver-fra-temu-11802551220</link>
+      <title>En fattig jul, IS i Australien og julegaver fra Temu</title>
+      <description>De formodede gerningsmænd bag angrebet ved Bondi Beach havde et hjemmelavet IS-flag i bilen. Så minder angrebet os om, at terrororganisationen stadig er aktuel? 
+Der gemmer sig sandsynligvis nogle gaver fra webshoppen Temu i kalendergaverne, til pakkelegen eller under juletræet denne jul. 
+For mange er julen ekstra hygge og forkælelse, men for de danskere, der har mindst, sætter julen spot på det.
+Værter: Adrian Busk og Amalie Schroll Munk. 
+Medvirkende: 
+Tore Refslund Hamming, sikkerhedspolitisk analytiker og forfatter til bogen 'Jihadi Politics: The Global Jihadi Civil War, 2014-2019'.
+Birthe Larsen, økonom, lektor, CBS.</description>
+      <pubDate>Mon, 22 Dec 2025 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:32</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551220/2f266dc6f49d5dbbfd6fd2afcf6d7301b556b44d75a1869b4fa1128fa5a7a8c8.mp3" type="audio/mpeg" length="25249989" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551219</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/trumps-isdronning-tyskernes-biler-og-eus-ghettodom-11802551219</link>
+      <title>Trumps isdronning, Tyskernes biler og EUs ghettodom</title>
+      <description>EU-kommissionen har droppet - på sigt - at forbyde benzin -og dieselbiler. Det sker efter et stort pres fra bl.a. den tyske bilindustri. Hvorfor vil tyskerne ikke give slip på benzinmotoren? 
+EU-domstolen har afgjort, at den danske såkaldte Ghettolov potentielt er "direkte diskriminerende". 
+Trumps stabschef, Susie Wiles, bliver beskrevet som en, der helst opererer uden for rampelyset. Men med et bemærkelsesværdigt interview træder hun frem fra skyggerne. 
+Værter: Amalie Schroll Munk og Adrian Busk. 
+Medvirkende: 
+Philipp Alexander Ostrowicz, senior forskningsrådgiver, CBS.
+Mads Dalgaard Madsen, tidl. indenrigspolitisk rådgiver, ambassaden i Washington DC, nuværende rådgiver, Terma.</description>
+      <pubDate>Fri, 19 Dec 2025 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551219/6780ab7e28420ed15bb5ac22f9fc720ec381f671b3c2bddeb32c98c3f51242b6.mp3" type="audio/mpeg" length="24489089" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551218</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/kemi-i-foderet-iskolde-midler-og-ild-i-boersen-11802551218</link>
+      <title>Kemi i foderet, iskolde midler og ild i Børsen</title>
+      <description>Det kemiske stof bovaer skulle være en del af løsning på landbrugets klimaproblemer. Men så blev køerne syge og begyndte at falde om. 
+For mindre end to år siden tog ilden og flammerne store dele af den historiske og ikoniske bygning med sig. Nu genåbner dele af Børsen i København. 
+EU står i en skæbnestund. For man skal beslutte, om russiske indefrosne midler må bruges til at støtte Ukraines kamp mod Rusland. 
+Vært: Adrian Busk. 
+Medvirkende: 
+Otto Lerche Kristiansen, journalist, Information. 
+Ole Ryborg, EU-korrespondent, DR.</description>
+      <pubDate>Thu, 18 Dec 2025 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:06</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551218/aeb867f212cc5f9d81f94d7b211c30ed8057f08708dde80cf07bded763fcc262.mp3" type="audio/mpeg" length="23185616" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551217</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/freds-deja-vu-laeger-til-overs-og-konservative-kast-11802551217</link>
+      <title>Freds-deja vu, læger til overs og konservative Kast</title>
+      <description>Endnu engang er USAs præsident optimistisk om fred i Ukraine. Men det lyder lidt som et ekko af de seneste måneder, så har noget rykket sig?
+Regioner og lægeforeninger råber samlet op om, at der bliver uddannet for mange læger. 
+I Chile er den næste præsident ultrakonservativ og streng i sin migrationspolitik. Valget af ham skriver sig ind i en latinamerikansk tendens. 
+Vært: Adrian Busk.
+Medvirkende: 
+Mikkel Gudsøe, adjungeret lektor, AU og Ph D-stipendiat i Politiske Forhandlinger, SDU.
+Kristian Almblad, DRs korrespondent i Sydamerika.</description>
+      <pubDate>Wed, 17 Dec 2025 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:05</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551217/fd13f555db17ed2beaba4dd716b728f5d9a235f0720b7de34299c2bba38b2f69.mp3" type="audio/mpeg" length="23176395" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551216</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/truslen-mod-joeder-maend-paa-barsel-og-film-paa-dansk-11802551216</link>
+      <title>Truslen mod jøder, mænd på barsel og film på dansk</title>
+      <description>Skaber angrebet mod jøder i Australien også frygt blandt danske jøder? 
+Rekordmange har set danske film i biografen i år. Hvad handler det om? 
+Øremærkede barsel har fået markant flere mænd til at tage orlov, så har tvang skabt mere ligestilling? 
+Vært: Adrian Busk.
+Medvirkende:
+Ina Rosen, forperson, Det Jødiske Samfund i Danmark.
+Gine Maltha Kampmann, adm. direktør, Tænketanken Equalis.</description>
+      <pubDate>Tue, 16 Dec 2025 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:04</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551216/781aa6850d2b34fcf00d07b84fa224d5a57c28ed20337b242fda3bd9dc61227d.mp3" type="audio/mpeg" length="24582989" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551215</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/miss-ede-stemmer-terror-ved-bondi-beach-og-ulovlige-bryster-11802551215</link>
+      <title>Miss'ede stemmer, terror ved Bondi Beach og ulovlige bryster</title>
+      <description>Der viser sig et generationsopgør i den traditionsbundne skønhedskonkurrence Miss Universe.
+En jødisk fejring ved Bondi Beach blev søndag angrebet, og flere blev dræbt i det, de australske myndigheder kalder et terrorangreb.
+I en række tilfælde reklamerer skønhedsklinikker ulovligt, det viser en opgørelse, DR-journalist Ole Hall har lavet. 
+Vært: Amalie Schroll Munk.
+Medvirkende: 
+Ole Hall, journalist, DR, P1.
+Emilia van Hauen, sociolog med fokus på generationer.</description>
+      <pubDate>Mon, 15 Dec 2025 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:17</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551215/efe3696ed28802401a802860ac7994bbc5136db8f48f38f780f436171ca6dc4b.mp3" type="audio/mpeg" length="24895178" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551214</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/priskrig-fifa-bossens-pris-og-en-maga-skrifttype-11802551214</link>
+      <title>Priskrig, FIFA-bossens pris og en MAGA-skrifttype</title>
+      <description>FIFA-bossen, Gianni Infantino, har givet Trump en fredspris. Men hvad er prisen for det? 
+Skrifttypen Calibri er for inkluderende for USAs udenrigsminister Marco Rubio, så han skifter til Times New Roman.
+DF vil give Ukraine penge i form af lån i stedet for donationer, og så skal det i stedet være billigere at handle mad ind for danskerne. Hvordan hænger det sammen?
+Vært: Adrian Busk.
+Medvirkende: 
+Rikke Gjøl Mansø, politisk analytiker, DR.
+Henrik Birkvig, professor emeritus, DMJX.
+Jan Jensen, journalist, særligt kendskab til fodbold og politik.</description>
+      <pubDate>Fri, 12 Dec 2025 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:31</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551214/552c415017c0f0e724f918562858d4e349d9f7382452edaf91f8d164b6acd2b5.mp3" type="audio/mpeg" length="23792707" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551213</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/usikre-usa-mettes-europa-og-gaza-med-vaabenhvile-11802551213</link>
+      <title>Usikre USA, Mettes Europa og Gaza med våbenhvile</title>
+      <description>USA bliver for første gang omtalt negativt i en trusselsvurdering fra FE. Er det et venskab i opløsning?
+"Vi lever alle i Mette Frederiksens Europa," sådan skriver mediet Politico, som placerer den danske statsminister på andenpladsen over de mest magtfulde i Europa. Astrid Opstrup er tilbage i Gaza for tredje gang, siden krigen begyndte, og fortæller om livet som sygeplejerske under våbenhvilen.
+Vært: Amalie Schroll Munk og Adrian Busk.
+Medvirkende: 
+Mikkel Vedby Rasmussen, professor, Institut for statskundskab, Københavns Universitet.
+Astrid Opstrup, sygeplejerske, Læger Uden Grænser.</description>
+      <pubDate>Thu, 11 Dec 2025 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:05</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551213/c5853908507d6ce9b0bce4e3204a52951b059ad285081a4b2339ea7e299dcab7.mp3" type="audio/mpeg" length="24604870" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551212</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/doneret-saed-en-tempelkrig-og-promiller-i-blodet-11802551212</link>
+      <title>Doneret sæd, en tempelkrig og promiller i blodet</title>
+      <description>Sæd fra en dansk donor er blevet til mindst 197 børn på tværs af Europa. Men sæden har en genfejl, der giver større risiko for kræft.  
+En topdirektør er blevet dømt og fyret for spritbilisme. Men spritkørsel har ikke altid været så kontroversielt.  
+I centrum for den væbnede konflikt mellem Thailand og Cambodja er nogle helt særlige templer.
+Vært: Adrian Busk.
+Medvirkende: 
+Amalie Thorlund Jepsen, undersøgende journalist i DR 
+Alexander Sjöberg, Asien-korrespondent, Berlingske</description>
+      <pubDate>Wed, 10 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:20</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551212/b3cb63d6606d866ff12bf89f273bf3344e7703bc74535d7a3801ac29d2a6c561.mp3" type="audio/mpeg" length="23539856" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551211</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/blaa-vs-roed-kina-vs-japan-og-elon-vs-eu-11802551211</link>
+      <title>Blå vs. rød, Kina vs. Japan og Elon vs. EU</title>
+      <description>Blokpolitikken er tilbage, og midterregeringen er ved at gå i opløsning. Sådan lyder analysen, efter et opsigtsvækkende interview med Venstres formand. 
+Kina og Japan beskylder lige nu hinanden for at opildne til konflikt. 
+EU har givet Elon Musk' medie X en bøde på 120 millioner euro, og nu vil Musk have EU afskaffet. 
+Vært: Amalie Schroll Munk.
+Medvirkende: 
+Helle Ib, politisk kommentator og skribent, Altinget.
+Malthe Sommerand, journalist, DRs udlandsredaktion.</description>
+      <pubDate>Tue, 09 Dec 2025 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:23</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551211/948cc71a5875a4f3d765c86e16663ef6d62b402d9bbd0460dce1a8f8f4fe7334.mp3" type="audio/mpeg" length="23615881" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551210</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/loekke-i-syrien-forandringer-paa-film-og-rapseri-for-millioner-11802551210</link>
+      <title>Løkke i Syrien, forandringer på film og rapseri for millioner</title>
+      <description>Lars Løkke Rasmussen (M) har besøgt Syrien, men har udenrigsministeren ro i maven over at skulle samarbejde med det nye regime? 
+Netflix har købt selskabet bag HBO Max, og det kan forandre filmverdenen totalt.  
+Hakket oksekød er kommet bag lås og slå, for det - og andre dagligvarer bliver stjålet i stor stil. Hvem er tyveknægtene? 
+Værter: Adrian Busk og Amalie Schroll Munk. 
+Medvirkende: 
+Lars Løkke Rasmussen (M), udenrigsminister.
+Jacob Ludvigsen, filmredaktør, Soundvenue.
+Per Kristensen, butiksdetektiv, ejer, PK-vagtservice.</description>
+      <pubDate>Mon, 08 Dec 2025 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:19</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551210/37fc2cdd081829f018339b76bb98282922a6a7a85b28602f6542993ec1387fdd.mp3" type="audio/mpeg" length="22069894" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551209</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/historisk-abort-mette-insider-og-en-fri-narkopraesident-11802551209</link>
+      <title>Historisk abort, Mette_insider og en fri narkopræsident</title>
+      <description>En historisk aftale gør aborten fri frem til 12. uge i Færøerne. Hvorfor er forandringen så svær? 
+På TikTok findes en profil med videoer af Mette Frederiksen, men den har ikke noget med statsministeren eller partiformanden at gøre, lyder det fra Socialdemokratiet.
+Honduras tidligere præsident er dømt for at have smuglet flere hundrede ton narko ind i USA. Så hvorfor er han nu blevet benådet af Donald Trump? 
+Værter: Amalie Schroll Munk og Adrian Busk.
+Medvirkende: 
+Turið Hermannsdóttir, antropolog og Ph.D, Aarhus Universitet.
+Kevin Shakir, undersøgende journalist, DR.
+Arne Kristensen, konsulent, bosiddende i Honduras.</description>
+      <pubDate>Fri, 05 Dec 2025 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:12</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551209/2621e27bfec769fc99bad5404c4d770e679166f33f20609205a90e51591a5c94.mp3" type="audio/mpeg" length="26229195" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551208</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/det-gas-forskel-paa-folk-og-en-strid-om-samlekort-11802551208</link>
+      <title>Det' gas, forskel på folk og en strid om samlekort</title>
+      <description>Fra 2027 vil EU stoppe al import af russisk gas. Men hvilke alliancer må vi så indgå for at få energi? 
+Samlekort til en julekalender bliver sat til salg for flere hundrede kroner stykket, og skoler må forbyde, at de byttes i skolen.
+På Københavns Rådhus vil Liberal Alliance ikke lade Socialdemokratiets Pernille Rosenkrantz-Theil forlade sin post. Hvorfor ikke? 
+Vært: Adrian Busk. 
+Medvirkende: 
+Alfred Arnborg, analytiker, Tænketanken Europa. 
+Ole Birk Olesen (LA), medlem af Københavns borgerrepræsentation, medlem af folketinget.</description>
+      <pubDate>Thu, 04 Dec 2025 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:19</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551208/872a29211de271fe8a99e2e3b615cda4f5021dd88c2b49a2d520d34de4b5aee1.mp3" type="audio/mpeg" length="22077965" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551207</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/et-sydafrikansk-familiedrama-arnes-tvivl-og-er-fedme-fortid-11802551207</link>
+      <title>Et sydafrikansk familiedrama, Arnes tvivl og er fedme fortid?</title>
+      <description>Datteren til Sydafrikas tidligere præsident er under mistanke for at rekruttere sydafrikanere til at kæmpe i Ukraine - på russisk side.
+WHO er kommet med retningslinjer for, hvordan de mener, man bør bruge vægttabsmedicin. Det skal være billigere og mere tilgængeligt. 
+Arne overvejer at droppe det parti, han var posterboy for.
+Vært: Amalie Schroll Munk. 
+Medvirkende: 
+Lars Igum Rasmussen, sundhedsredaktør, Politiken.
+Søren Bendixen, DRs korrespondent i Afrika.</description>
+      <pubDate>Wed, 03 Dec 2025 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:43</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551207/e3a3cec46c7052fd9b2213ea8eac42a15252d3b277c67a93b84a53261290ca4b.mp3" type="audio/mpeg" length="22654540" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551206</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/moent-paa-lommen-korruption-i-ukraine-og-feminicido-11802551206</link>
+      <title>Mønt på lommen, korruption i Ukraine og feminicido</title>
+      <description>Præsident Zelenskyjs stabschef har trukket sig på grund af korruptionsanklager. Bør vi genoverveje vores støtte til Ukraine? 
+De første mønter med Kong Frederik X præsenteres i dag. 
+Et helt enigt italiensk parlament har vedtaget at straffe drab på kvinder hårdere. 
+Værter: Adrian Busk og Amalie Schroll Munk.
+Medvirkende: 
+Anna Libak, udlandsredaktør, Weekendavisen.
+René Villadsen, møntsamler, bestyrelsesmedlem, Møntsamlerforeningen.
+Alberte Bové Rud, analytiker, Tænketanken Europa.</description>
+      <pubDate>Tue, 02 Dec 2025 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:15</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551206/c37067ff45b57e54234ab2cf9fae4dbc0617c554107066bbb469b3cff9be2f39.mp3" type="audio/mpeg" length="24852559" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551205</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/venstreorienterede-svin-witkoffs-fred-og-fransk-pligt-11802551205</link>
+      <title>Venstreorienterede svin, Witkoffs fred og fransk pligt</title>
+      <description>Trumps særlige udsending Steve Witkoff er uden særlig erfaring med diplomati. Alligevel er han central i fredsforhandlingerne med Rusland.
+I flere europæiske lande tyder mere og mere på, at man forbereder sig til en krig med Rusland.
+DRs politiske slagside skal undersøges, men hvad er problemet med det?
+Værter: Amalie Schroll Munk og Adrian Busk. 
+Medvirkende: 
+Rasmus Sinding Søndergaard, seniorforsker, DIIS.
+Ulrik Haagerup, direktør, Constructive Institute, tidl. nyhedsdirektør, DR.</description>
+      <pubDate>Mon, 01 Dec 2025 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:50</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551205/33df646ac2f0f9d97d01254f6f68454a806c1273d71f6bafe1969e54efcf84c8.mp3" type="audio/mpeg" length="24246602" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551204</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/svinsk-dokumentar-skud-mod-soldater-og-et-mega-bryllup-i-kina-11802551204</link>
+      <title>Svinsk dokumentar, skud mod soldater og et mega-bryllup i Kina</title>
+      <description>Optagelser af udsultede smågrise har fået politikerne op af stolene af to meget forskellige årsager. 
+To soldater fra Nationalgarden blev onsdag skudt i Washington, og Trumps løsning er mere nationalgarde. 
+Og så kigger Tiden på et kinesisk mega-bryllup mellem en te-mogul og en solcelle-arving.
+Vært: Adrian Busk.
+Medvirkende: 
+Jacob Heinel Jensen, USA-korrespondent, Berlingske.
+Philip Roin, DRs Asien-korrespondent.</description>
+      <pubDate>Fri, 28 Nov 2025 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:36</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551204/daeda30f81d85b63b354aa4f33cff9334eb45c6e5761c711b31222a5cd86f3dc.mp3" type="audio/mpeg" length="25359434" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551203</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/land-forhandling-sure-s-ere-og-magt-i-klassevaerelset-11802551203</link>
+      <title>Land-forhandling, sure S'ere og magt i klasseværelset</title>
+      <description>Hvad betyder det for resten af verden, hvis dele af Ukraine ender permanent på russiske hænder? 
+En lang række socialdemokratiske byrådsmedlemmer vil have, at Mette Frederiksen går af som formand. 
+Er magt og disciplin den rigtige medicin for de inkluderede elever?
+Værter: Amalie Schroll Munk og Adrian Busk.
+Medvirkende: 
+Mikkel Vedby Rasmussen, professor i statskundskab, Københavns Universitet. 
+Mattias Tesfaye, børne og undervisningsminister.</description>
+      <pubDate>Thu, 27 Nov 2025 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:57</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551203/a69106e6eb4d34b41ba0071f60041e98450057661e9b5acf657b3f17ac560a83.mp3" type="audio/mpeg" length="24431496" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551202</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/stram-model-majories-mytteri-og-giftige-byraad-11802551202</link>
+      <title>Stram model, Majories mytteri og giftige byråd</title>
+      <description>Danmark er pludselig blevet forbilledet for en immigrations-lovpakke, som det britiske Labour i disse dage præsenterer for befolkningen.
+Borgmester-dramaer efterlader et ret slækket arbejdsklima rundt om i byrådene. 
+Trump bliver kastet for løverne af en af hans mest loyale støtter. 
+Vært: Adrian Busk.
+Medvirkende: 
+Morten Rønnelund, Storbritannien-korrespondent på Avisen Danmark og vært på podcasten "Den britiske vinkel". 
+Sandra Brovall, DRs kulturkorrespondent.
+Morten Thiessen, byrådsmedlem for Konservative i Aalborg.</description>
+      <pubDate>Wed, 26 Nov 2025 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:31</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551202/8a696ad1b45acfed1159b16d7cce77d4085b84f3aab601858ed1e46268ec5e2b.mp3" type="audio/mpeg" length="25243657" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551201</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/ukendt-udbyttemand-urolige-ukrainere-og-maa-pernille-gaa-11802551201</link>
+      <title>Ukendt udbyttemand, urolige ukrainere og må Pernille gå?</title>
+      <description>Et nyt ansigt er dukket op i danmarkshistoriens største bedragerisag. 
+Fire partier vil lade Rosenkrantz-Theil gå, selvom hun ikke har en gyldig grund for kommunalt exit. 
+Hvad siger ukrainerne til den såkaldte fredsplan? 
+Vært: Amalie Schroll Munk.
+Medvirkende: 
+Jakob Ussing, erhvervskorrespondent i DR.
+Victor Schrøder Friis, DR-journalist i Ukraine.</description>
+      <pubDate>Tue, 25 Nov 2025 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:04</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551201/9697aa87738b870b72d2a57ac9d092265b802298de491d076132b3fb9fd505c3.mp3" type="audio/mpeg" length="24596805" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551200</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/bandernes-boernesoldater-en-flosset-fredsplan-og-henrettelser-i-usa-11802551200</link>
+      <title>Bandernes børnesoldater, en flosset fredsplan og henrettelser i USA</title>
+      <description>Teenagere bliver hyret til at lave bandernes beskidte arbejde. 
+En fredsplan mellem Ukraine og Rusland er angiveligt på bordet. 
+USA har skruet gevaldigt op for deres henrettelser.
+Vært: Adrian Busk.
+Medvirkende: 
+Louise Dalsgaard, DR's retsanalytiker.
+Matias Seidelin, sikkerhedspolitisk seniorkorrespondent hos netmediet OLFI.</description>
+      <pubDate>Mon, 24 Nov 2025 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:39</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551200/c47f8c725648b80d45db601a64f64bed2e312dbea1c21c755a770d1c3e31ff7e.mp3" type="audio/mpeg" length="26867972" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551199</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/kuppet-i-middelfart-epstein-og-eliten-og-cop30-knaster-11802551199</link>
+      <title>Kuppet i Middelfart, Epstein og eliten og COP30-knaster</title>
+      <description>I Middelfart er konstitueringen blevet kuppet af en Socialdemokrat, som under et døgn efter valget meldte sig under fanerne hos Venstre.
+Den danske klimaminister har truet med at udvandre fra klimakonferencen i Brasilien. Men hvad handler konflikterne ved Cop'en om? 
+Trump har efter måneders modstand mod det underskrevet den lov, der skal sikre, at Epstein-dokumenterne offentliggøres. 
+Medvirkende: 
+Kristian Madsen, chefredaktør, A4 medier.
+Filip Knaack Kirkegaard, klimaanalytiker, DR.
+Markus Bernsen, USA-korrespondent, Weekendavisen.</description>
+      <pubDate>Fri, 21 Nov 2025 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:41</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551199/c2ca44bb5f03bd38ae73993500db113587ce9151252d07c4e0c2f3ec06dfdb43.mp3" type="audio/mpeg" length="24042119" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551198</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/kbh-i-nye-klaeder-khashoggis-spoegelse-og-forbrydelser-mod-gen-z-11802551198</link>
+      <title>KBH i nye klæder, Khashoggis spøgelse og forbrydelser mod Gen Z</title>
+      <description>København får - for første gang - en overborgmester, som ikke er socialdemokrat. Men er der udsigt til den samme, gamle politik i nye klæder med SF i spidsen? Den saudiske kronprins havde - ifølge USAs præsident Trump - ikke noget med Khashoggi-mordet at gøre. 
+Er dødsdommen til Bangladesh' tidligere premierminister kulminationen på de 'Gen Z-protester', der har spredt sig verden over?
+Vært: Amalie Schroll Munk.
+Medvirkende:
+Lars Trier Mogensen, politisk kommentator, dagbladet Information.
+Tim Whyte, generalsekretær, Mellemfolkeligt Samvirke.</description>
+      <pubDate>Thu, 20 Nov 2025 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:39</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551198/46f52c56c9cbd9f0aaa6f43ab7b779e2e2001392b5f4fd829e8d6426c7cb6d49.mp3" type="audio/mpeg" length="23982789" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551197</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/valgnatten-11802551197</link>
+      <title>Valgnatten</title>
+      <description>Vi har været på arbejde hele aftenen og natten for at give dig det vigtigste fra kommunalvalget. 
+Vært: Adrian Busk.
+Medvirkende: 
+Christine Cordsen, DRs politiske korrespondent.
+Hans Peter Geil, tidligere borgmester, Gram og Haderslev, Venstre.</description>
+      <pubDate>Wed, 19 Nov 2025 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:54</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551197/b02bc998f9ef1e66a5ac52f619ed6ab9429885311e5cd28bb8c09a019cf255f8.mp3" type="audio/mpeg" length="27230829" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802551196</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/valgdags-tvivl-vaaben-mod-venezuela-og-noname057-11802551196</link>
+      <title>Valgdags-tvivl, våben mod Venezuela og NoName057</title>
+      <description>Ved du heller ikke, hvem du skal stemme på i dag?
+Trump sender jægerfly, hangarskib og atomubåd mod Venezuela. 
+Flere partiers hjemmesider har været udsat for cyberangreb. 
+Vært: Adrian Busk.
+Medvirkende:
+Kristian Almblad, DRs sydamerikakorrespondent. 
+Roger Buch, Forsker, underviser og kommunalvalgsekspert, DMJX.</description>
+      <pubDate>Tue, 18 Nov 2025 03:00:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:11</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802551196/78bdd158b1260b10b260bfcdfba67086c7400b53abab77c252ed6bcdd1a447f8.mp3" type="audio/mpeg" length="24747715" />
+    </item>
+  </channel>
+</rss>
