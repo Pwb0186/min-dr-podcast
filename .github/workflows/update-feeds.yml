@@ -1,5 +1,8 @@
 name: Opdater podcasts
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 on:
   workflow_dispatch:
   schedule:
@@ -31,7 +34,7 @@ jobs:
       - name: Brug Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
 
       - name: Byg private feeds
         env:
