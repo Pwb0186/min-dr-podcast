@@ -47,14 +47,14 @@ For et musikprogram kan playlisten tilfoejes til beskrivelsen af de nyeste afsni
 }
 ```
 
-Som standard hentes playlisten til de nyeste 20 afsnit. Du kan aendre antallet:
+Som standard hentes playlisten til de nyeste 5 afsnit. Du kan aendre antallet:
 
 ```json
 {
   "slug": "flex",
   "title": "Flex",
   "includePlaylist": true,
-  "playlistEpisodeLimit": 40
+  "playlistEpisodeLimit": 10
 }
 ```
 
