@@ -20,17 +20,18 @@
     },
     {
       "slug": "bangers-med-ena",
-      "title": "Bangers"
-      "includePlaylist": true,
+      "title": "Bangers",
+      "includePlaylist": true
     },
     {
       "slug": "flex",
-      "title": "Flex"
-      "includePlaylist": true,
+      "title": "Flex",
+      "includePlaylist": true
     },
     {
       "slug": "p3-pulten",
-      "title": "Pulten"
+      "title": "Pulten",
+      "includePlaylist": true
     },
     {
       "slug": "prompt",
@@ -62,8 +63,8 @@
     },
     {
       "slug": "p6-elsker",
-      "title": "P6 elsker"
-      "includePlaylist": true,
+      "title": "P6 elsker",
+      "includePlaylist": true
     },
     {
       "slug": "troldspejlet-podcast",
@@ -75,8 +76,8 @@
     },
     {
       "slug": "fonk-det-er-podcast",
-      "title": "Fonk det er podcast"
-      "includePlaylist": true,
+      "title": "Fonk det er podcast",
+      "includePlaylist": true
     }
   ]
 }
