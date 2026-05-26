@@ -13,7 +13,7 @@ Eksempel:
 ```json
 {
   "siteTitle": "Mine Podcasts",
-  "baseUrl": "https://Pwb0186.github.io/min-podcast",
+  "baseUrl": "https://pwb0186.github.io/min-podcast",
   "podcasts": [
     {
       "slug": "genstart",
@@ -34,6 +34,31 @@ Naar du vil tilfoeje en podcast, tilfoejer du et nyt punkt i listen:
 ```
 
 `slug` bestemmer feed-adressen. `urn` er et internt serie-id, som goer opslaget mere stabilt, hvis et navn aendrer sig.
+
+## Playlister I Musikprogrammer
+
+For et musikprogram kan playlisten tilfoejes til beskrivelsen af de nyeste afsnit:
+
+```json
+{
+  "slug": "flex",
+  "title": "Flex",
+  "includePlaylist": true
+}
+```
+
+Som standard hentes playlisten til de nyeste 20 afsnit. Du kan aendre antallet:
+
+```json
+{
+  "slug": "flex",
+  "title": "Flex",
+  "includePlaylist": true,
+  "playlistEpisodeLimit": 40
+}
+```
+
+Hold gerne tallet moderat, fordi hver playliste kraever et ekstra opslag, hver gang feeds opdateres.
 
 ## Find Korrekt Slug
 
@@ -77,7 +102,7 @@ Det laver en `public`-mappe med:
 For dette repository er vaerdien:
 
 ```text
-https://Pwb0186.github.io/min-dr-podcast
+https://pwb0186.github.io/min-podcast
 ```
 
 `SITE_BASE_URL` bruges til at skrive de rigtige feed-adresser.
@@ -105,13 +130,13 @@ Bemaerk: GitHub bruger UTC, saa tiderne flytter sig en time ved vintertid.
 Naar siden er bygget og udgivet, kan et feed bruges saadan:
 
 ```text
-https://Pwb0186.github.io/min-dr-podcast/genstart/feed.xml
+https://pwb0186.github.io/min-podcast/genstart/feed.xml
 ```
 
 Du kan ogsaa aabne forsiden:
 
 ```text
-https://Pwb0186.github.io/min-dr-podcast
+https://pwb0186.github.io/min-podcast
 ```
 
 og vaelge feedet derfra.
