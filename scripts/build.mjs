@@ -49,7 +49,7 @@ for (const podcast of podcasts) {
   const feedUrl = `${baseUrl}/${slug}/feed.xml`;
   const targetDir = join(publicDir, slug);
   const playlists = podcast.includePlaylist
-    ? await loadPlaylists(episodes, podcast.playlistEpisodeLimit || 5, title)
+    ? await loadPlaylists(episodes, podcast.playlistEpisodeLimit || 4, title)
     : new Map();
 
   await mkdir(targetDir, { recursive: true });
