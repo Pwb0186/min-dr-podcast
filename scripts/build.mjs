@@ -10,7 +10,7 @@ const publicDir = join(root, "public");
 const configPath = join(root, "podcasts.json");
 
 const config = JSON.parse(await readFile(configPath, "utf8"));
-const siteTitle = config.siteTitle || "Mine Podcasts";
+const siteTitle = config.siteTitle || "Mine DR Podcasts";
 const baseUrl = (process.env.SITE_BASE_URL || config.baseUrl || "").replace(/\/$/, "");
 const podcasts = Array.isArray(config.podcasts) ? config.podcasts : [];
 
@@ -48,6 +48,9 @@ for (const podcast of podcasts) {
     findRadioImageUrl(primaryShow);
   const feedUrl = `${baseUrl}/${slug}/feed.xml`;
   const targetDir = join(publicDir, slug);
+  const playlists = podcast.includePlaylist
+    ? await loadPlaylists(episodes, podcast.playlistEpisodeLimit || 20, title)
+    : new Map();
 
   await mkdir(targetDir, { recursive: true });
   await writeFile(
@@ -61,7 +64,7 @@ for (const podcast of podcasts) {
       imageLink: primaryShow.presentationUrl,
       category: primaryShow.categories?.[0] || "News",
       lastBuildDate: formatRssDate(new Date(episodes[0].publishTime)),
-      items: episodes.map((episode) => toFeedItem(episode, primaryShow.presentationUrl))
+      items: episodes.map((episode) => toFeedItem(episode, primaryShow.presentationUrl, playlists.get(episodeKey(episode))))
     }),
     "utf8"
   );
@@ -194,7 +197,52 @@ function findRadioImageUrl(show) {
   return asset?.id ? `https://asset.dr.dk/drlyd/images/${asset.id}` : "";
 }
 
-function toFeedItem(episode, fallbackLink) {
+async function loadPlaylists(episodes, limit, title) {
+  const selectedEpisodes = episodes.slice(0, Math.max(0, Number(limit) || 20));
+  const playlists = new Map();
+
+  console.log(`Henter playlister for de nyeste ${selectedEpisodes.length} afsnit af ${title}`);
+
+  for (const episode of selectedEpisodes) {
+    try {
+      const tracks = await fetchPlaylist(episode.presentationUrl);
+      if (tracks.length) {
+        playlists.set(episodeKey(episode), tracks);
+      }
+    } catch (error) {
+      console.warn(`Kunne ikke hente playliste for ${episode.title}: ${error.message}`);
+    }
+  }
+
+  return playlists;
+}
+
+async function fetchPlaylist(pageUrl) {
+  if (!pageUrl) return [];
+
+  const response = await fetch(pageUrl, {
+    headers: { "user-agent": "privat-podcast-manager/2.0" }
+  });
+
+  if (!response.ok) {
+    throw new Error(`siden svarede ${response.status}`);
+  }
+
+  const page = await response.text();
+  const nextData = /<script[^>]*id="__NEXT_DATA__"[^>]*>([\s\S]*?)<\/script>/i.exec(page)?.[1];
+  if (!nextData) return [];
+
+  const points = JSON.parse(nextData)?.props?.pageProps?.indexPoints || [];
+  return points
+    .filter((point) => point.type === "Track" && point.title)
+    .map((point) => ({
+      title: point.title,
+      artist: point.description || point.roles?.map((role) => role.name).filter(Boolean).join(", ") || "",
+      offsetMilliseconds: point.offsetMilliseconds || 0
+    }));
+}
+
+function toFeedItem(episode, fallbackLink, playlist = []) {
   const audioAsset = (episode.audioAssets || [])
     .filter((asset) => asset.target === "Progressive" && asset.format === "mp3")
     .sort((a, b) => Math.abs((a.bitrate || 0) - 192) - Math.abs((b.bitrate || 0) - 192))[0];
@@ -205,12 +253,33 @@ function toFeedItem(episode, fallbackLink) {
     guid: episode.productionNumber || episode.id,
     link: episode.presentationUrl || fallbackLink,
     title: episode.title || "Uden titel",
-    description: episode.description || "",
+    description: appendPlaylist(episode.description || "", playlist),
     pubDate: formatRssDate(new Date(episode.publishTime)),
     duration: formatDuration(episode.durationMilliseconds || 0),
     enclosureUrl: audioAsset.url,
     enclosureByteLength: audioAsset.fileSize || 0
   };
+}
+
+function appendPlaylist(description, playlist) {
+  if (!playlist.length) return description;
+
+  const tracks = playlist
+    .map((track) => `${formatTrackTime(track.offsetMilliseconds)} ${track.artist ? `${track.artist} - ` : ""}${track.title}`)
+    .join("\n");
+
+  return `${description}\n\nSpilleliste:\n${tracks}`;
+}
+
+function episodeKey(episode) {
+  return episode.productionNumber || episode.id;
+}
+
+function formatTrackTime(milliseconds) {
+  const totalSeconds = Math.floor(milliseconds / 1000);
+  const minutes = Math.floor(totalSeconds / 60);
+  const seconds = totalSeconds % 60;
+  return `${String(minutes).padStart(2, "0")}:${String(seconds).padStart(2, "0")}`;
 }
 
 function renderFeed(feed) {
