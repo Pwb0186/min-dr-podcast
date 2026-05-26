@@ -49,7 +49,7 @@ for (const podcast of podcasts) {
   const feedUrl = `${baseUrl}/${slug}/feed.xml`;
   const targetDir = join(publicDir, slug);
   const playlists = podcast.includePlaylist
-    ? await loadPlaylists(episodes, podcast.playlistEpisodeLimit || 20, title)
+    ? await loadPlaylists(episodes, podcast.playlistEpisodeLimit || 5, title)
     : new Map();
 
   await mkdir(targetDir, { recursive: true });
@@ -198,7 +198,7 @@ function findRadioImageUrl(show) {
 }
 
 async function loadPlaylists(episodes, limit, title) {
-  const selectedEpisodes = episodes.slice(0, Math.max(0, Number(limit) || 20));
+  const selectedEpisodes = episodes.slice(0, Math.max(0, Number(limit) || 5));
   const playlists = new Map();
 
   console.log(`Henter playlister for de nyeste ${selectedEpisodes.length} afsnit af ${title}`);
